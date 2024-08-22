@@ -131,68 +131,68 @@ Each task will be aligned to one or more course outcomes. You will receive a sep
     <tr>
       <td><b>Unit 1:</b> The Internet</td>
       <td>Thursday, September 5th - Tuesday, October 1st</td>
-      <td><b><u>Data:</u></b> Representing Information, Binary Numbers, Overflow & Rounding, and Compression<br><br>
-      <b><u>Impact of Computing:</u></b> Intellectual Property, and Impact of Digitizing Information.
+      <td><b><u>Computer Systems and Networks:</u></b> Networks, The Internet, Transmitting Data Over a Network, Protocols, Addressing, Fault Tolerance, and The Internet.<br><br>
+      <b><u>Impact of Computing:</u></b> Internet Dilemmas (Net Neutrality, Censorship, and the Digital Divide).
     </tr>
     <tr>
       <td><b>Unit 2:</b> Introduction to CMU Graphics</td>
       <td>Thursday, September 5th - Tuesday, October 1st</td>
-      <td><b><u>Data:</u></b> Representing Information, Binary Numbers, Overflow & Rounding, and Compression<br><br>
-      <b><u>Impact of Computing:</u></b> Intellectual Property, and Impact of Digitizing Information.
+      <td><b><u>Creative Development:</u></b> The Iterative Development Process, Collaborative Approaches to Software Development, Flow Charts, Sub-goal Labels, Code Tracing, Testing, and Debugging.<br><br>
+      <b><u>Algorithms and Programming:</u></b> Sequencing / Selection / Iteration, Strings, and Output.<br><br>
+      <b><u>CMU Graphics:</u></b> The CMU Canvas, Drawing Shapes, Drawing Images, and Labels.<br><br>
+      <b><u>Create PT Prep:</u></b> 3.a – Purpose, Functionality, Inputs/Outputs (outputs only).
     </tr>
     <tr>
       <td><b>Unit 3:</b> Functions, Mouse Events, and Conditionals</td>
       <td>Thursday, September 5th - Tuesday, October 1st</td>
-      <td><b><u>Data:</u></b> Representing Information, Binary Numbers, Overflow & Rounding, and Compression<br><br>
-      <b><u>Impact of Computing:</u></b> Intellectual Property, and Impact of Digitizing Information.
+      <td><b><u>Creative Development:</u></b> The Iterative Development Process, Collaborative Approaches to Software Development, Flow Charts, Sub-goal Labels, Code Tracing, Testing, and Debugging.<br><br>
+      <b><u>Algorithms and Programming:</u></b> Input/Output, Variables/Assignment, Mathematical Expressions, Booleans, Conditionals, and Functions, and Event Handling.<br><br>
+      <b><u>CMU Graphics:</u></b> The CMU Console, Print Statements, Mouse Events, and Shape Properties, and Shape Methods.<br><br>
+      <b><u>Create PT Prep:</u></b> 2 – Video, 3.a – Purpose, Functionality, Inputs / Outputs (outputs only), 3.c – Procedures (Definition, Call, General Description, Contribution to Program Purpose, and Detailed               Description).
     </tr>
     <tr>
       <td><b>Unit 4:</b> Data</td>
       <td>Thursday, September 5th - Tuesday, October 1st</td>
-      <td><b><u>Data:</u></b> Representing Information, Binary Numbers, Overflow & Rounding, and Compression<br><br>
-      <b><u>Impact of Computing:</u></b> Intellectual Property, and Impact of Digitizing Information.
+      <td><b><u>Data:</u></b> Data, Metadata, Data Visualization, Filtering/Cleaning Data, and Letting Data Tell a Story.<br><br>
+      <b><u>Impact of Computing:</u></b> Crowdsourcing, Algorithmic Bias, and Machine Learning.
     </tr>
     <tr>
       <td><b>Unit 5:</b> Groups, Lists, and Loops</td>
       <td>Thursday, September 5th - Tuesday, October 1st</td>
-      <td><b><u>Data:</u></b> Representing Information, Binary Numbers, Overflow & Rounding, and Compression<br><br>
-      <b><u>Impact of Computing:</u></b> Intellectual Property, and Impact of Digitizing Information.
+      <td><b><u>Creative Development:</u></b> The Iterative Development Process, Collaborative Approaches to Software Development, Flow Charts, Sub-goal Labels, Code Tracing, Testing, and Debugging.<br><br>
+      <b><u>Algorithms and Programming:</u></b> Lists, List Methods, and Loops<br><br>
+      <b><u>CMU Graphics:</u></b> Groups, Group Properties, and Group Methods.<br><br>
+      <b><u>Create PT Prep:</u></b> 1 – Program Code, 2 – Video, 3.a – Purpose, Functionality, Inputs / Outputs, 3.b – Lists, 3.c – Procedures (Definition, Call, General Description, Contribution to Program Purpose, and        Detailed Description), 3.d – Procedures (Calls, Conditions, Results).
     </tr>
     <tr>
       <td colspan = '3'><b>Spring Semester</b></td>
     </tr>
     <tr>
-      <td><b>Unit 0:</b> Digital Information</td>
+      <td><b>Unit 6:</b> Complex Conditionals, More Events, and Libraries</td>
       <td>Thursday, September 5th - Tuesday, October 1st</td>
       <td><b><u>Data:</u></b> Representing Information, Binary Numbers, Overflow & Rounding, and Compression<br><br>
       <b><u>Impact of Computing:</u></b> Intellectual Property, and Impact of Digitizing Information.
     </tr>
     <tr>
-      <td><b>Unit 1:</b> The Internet</td>
+      <td><b>Unit 7:</b> Cybersecurity and Global Impacts</td>
       <td>Thursday, September 5th - Tuesday, October 1st</td>
       <td><b><u>Data:</u></b> Representing Information, Binary Numbers, Overflow & Rounding, and Compression<br><br>
       <b><u>Impact of Computing:</u></b> Intellectual Property, and Impact of Digitizing Information.
     </tr>
     <tr>
-      <td><b>Unit 2:</b> Introduction to CMU Graphics</td>
+      <td><b>Unit 8:</b> Algorithms and the Create Performance Task</td>
       <td>Thursday, September 5th - Tuesday, October 1st</td>
       <td><b><u>Data:</u></b> Representing Information, Binary Numbers, Overflow & Rounding, and Compression<br><br>
       <b><u>Impact of Computing:</u></b> Intellectual Property, and Impact of Digitizing Information.
     </tr>
     <tr>
-      <td><b>Unit 3:</b> Functions, Mouse Events, and Conditionals</td>
+      <td><b>Unit 9:</b> AP Exam Prep</td>
       <td>Thursday, September 5th - Tuesday, October 1st</td>
       <td><b><u>Data:</u></b> Representing Information, Binary Numbers, Overflow & Rounding, and Compression<br><br>
       <b><u>Impact of Computing:</u></b> Intellectual Property, and Impact of Digitizing Information.
     </tr>
     <tr>
-      <td><b>Unit 4:</b> Data</td>
-      <td>Thursday, September 5th - Tuesday, October 1st</td>
-      <td><b><u>Data:</u></b> Representing Information, Binary Numbers, Overflow & Rounding, and Compression<br><br>
-      <b><u>Impact of Computing:</u></b> Intellectual Property, and Impact of Digitizing Information.
-    </tr>
-    <tr>
-      <td><b>Unit 5:</b> Groups, Lists, and Loops</td>
+      <td><b>Unit 10:</b> Culminating Project</td>
       <td>Thursday, September 5th - Tuesday, October 1st</td>
       <td><b><u>Data:</u></b> Representing Information, Binary Numbers, Overflow & Rounding, and Compression<br><br>
       <b><u>Impact of Computing:</u></b> Intellectual Property, and Impact of Digitizing Information.
