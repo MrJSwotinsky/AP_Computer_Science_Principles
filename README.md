@@ -169,7 +169,7 @@ Each task will be aligned to one or more course outcomes. You will receive a sep
     </tr>
     <tr>
       <td><b>Unit 6:</b> Complex Conditionals, More Events, and Libraries</td>
-      <td>Thursday, September 5th - Tuesday, October 1st</td>
+      <td>Tuesday, January 28th 2025<br>-<br>Friday, February 28th 2025</td>
       <td><b><u>Creative Development:</u></b> The Iterative Development Process, Collaborative Approaches to Software Development, Flow Charts, Sub-goal Labels, Code Tracing, Testing, and Debugging.<br><br>
       <b><u>Algorithms and Programming:</u></b> Functions, Parameters, Arguments, Returns, Nesting, and Libraries.<br><br>
       <b><u>CMU Graphics:</u></b> Key Events, Step Events, and Animation.<br><br>
@@ -177,24 +177,24 @@ Each task will be aligned to one or more course outcomes. You will receive a sep
     </tr>
     <tr>
       <td><b>Unit 7:</b> Cybersecurity and Global Impacts</td>
-      <td>Thursday, September 5th - Tuesday, October 1st</td>
+      <td>Monday, March 3rd 2025<br>-<br>Tuesday, March 18th 2025</td>
       <td><b><u>Creative Development:</u></b> he Iterative Development Process.<br><br>
       <b><u>Impact of Computing:</u></b> Computing Innovations, Digital Privacy, Security Risks, and Protecting Personal Data.
     </tr>
     <tr>
       <td><b>Unit 8:</b> Algorithms and the Create Performance Task</td>
-      <td>Thursday, September 5th - Tuesday, October 1st</td>
+      <td>Wednesday, March 19th 2025<br>-<br>Wednesday, April 30th 2025</td>
       <td><b><u>Creative Development:</u></b> The Iterative Development Process, Collaborative Approaches to Software Development, Flow Charts, Sub-goal Labels, Code Tracing, Testing, and Debugging.<br><br>
       <b><u>Algorithms and Programming:</u></b> Analyzing Algorithms, Algorithmic Efficiency, Reasonable Run Time, Parallel and Distributed Computing, and the Limits of Algorithms.<br><br>
       <b><u>Create PT Prep:</u></b> 1 – Program Code, 2 – Video, 3.a – Purpose, Functionality, Inputs / Outputs, 3.b – Lists, 3.c – Procedures (Definition, Call, General Description, Contribution to Program Purpose, and        Detailed Description), 3.d – Procedures (Calls, Conditions, Results).<br><br>
       <i>Note: This unit includes 9 Hours of dedicated class time for students to work on the Create Performance Task.</i>
     </tr>
     <tr>
-      <td colspan='3'><b>Create Performance Task Due: Wednesday, April 30th 2025</b></td>
+      <td colspan='3'><b>Create Performance Task Due: Wednesday, April 30th 2025 at 11:59 PM</b></td>
     </tr>
     <tr>
       <td><b>Unit 9:</b> AP Exam Prep</td>
-      <td>Thursday, September 5th - Tuesday, October 1st</td>
+      <td>Thursday, May 1st 2025<br>-<br>Wednesday, May 14th 2025</td>
       <td>This unit serves as a two-week-long review of all topics, concepts, standards, and objectives covered in AP Computer Science Principles with emphasis on preparing for the AP Exam.
     </tr>
     <tr>
@@ -202,7 +202,7 @@ Each task will be aligned to one or more course outcomes. You will receive a sep
     </tr>
     <tr>
       <td><b>Unit 10:</b> Culminating Project</td>
-      <td>Thursday, September 5th - Tuesday, October 1st</td>
+      <td>Friday, May 16th 2025<br>-<br>Monday, June 16th 2025</td>
       <td><b><u>Description:</u></b> For this project, you will work in groups, applying and extending what you have learned in AP Computer Science Principles 1 and 2 by completing a culminating project. In your culminating projects, you will research a topic in Computer Science or a related field and create an artifact reflective of what you have learned. The artifact may take the form of a report, a video, a digital presentation, a program they have coded, a physical device, etc. You may select from a given list of topics or you may select your own topic in consultation with the course instructor.<br><br>
         <b>Sample Topic Choices:</b> Applying Computational Thinking Skills to Cloud Computing and Desktop Applications, Autonomous Vehicles, Machine Learning/AI, Big Data, Boolean Algebra/Logic Gates, Coding for a Cause, Computer Science and the Environment, Cryptocurrency, Data Visualization, Encryption Algorithms, Ethical Hacking, Exploring a New Ethical Issue Related to Computer Science, Exploring a New Programming Language, Exploring the Relationship between Computer Science and a Specific Career Field, Learning a New Set of Programming Skills, and Physical Computing / Robotics.
     </tr>
