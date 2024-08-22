@@ -1,7 +1,7 @@
 **Inwood Early College for Health and Information Technologies**<br>
 *Career and Technical Education Department*<br>
 
-## AP Computer Science Principals (TYS61XT / TYS62XT)- Course Syllabus
+## AP Computer Science Principles (TYS61XT / TYS62XT)- Course Syllabus
 CTE Computer Science Pathway - Course 3 of 8<br>
 1 credit per semester / 54 hours per semester
 
