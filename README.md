@@ -130,13 +130,13 @@ Each task will be aligned to one or more course outcomes. You will receive a sep
     </tr>
     <tr>
       <td><b>Unit 1:</b> The Internet</td>
-      <td>Thursday, September 5th - Tuesday, October 1st</td>
+      <td>Wednesday, October 2nd 2024<br>-<br>Friday, October 18th 2024</td>
       <td><b><u>Computer Systems and Networks:</u></b> Networks, The Internet, Transmitting Data Over a Network, Protocols, Addressing, Fault Tolerance, and The Internet.<br><br>
       <b><u>Impact of Computing:</u></b> Internet Dilemmas (Net Neutrality, Censorship, and the Digital Divide).
     </tr>
     <tr>
       <td><b>Unit 2:</b> Introduction to CMU Graphics</td>
-      <td>Thursday, September 5th - Tuesday, October 1st</td>
+      <td>Monday, October 21st 2024<br>-<br>Monday, November 4th 2024</td>
       <td><b><u>Creative Development:</u></b> The Iterative Development Process, Collaborative Approaches to Software Development, Flow Charts, Sub-goal Labels, Code Tracing, Testing, and Debugging.<br><br>
       <b><u>Algorithms and Programming:</u></b> Sequencing / Selection / Iteration, Strings, and Output.<br><br>
       <b><u>CMU Graphics:</u></b> The CMU Canvas, Drawing Shapes, Drawing Images, and Labels.<br><br>
@@ -144,7 +144,7 @@ Each task will be aligned to one or more course outcomes. You will receive a sep
     </tr>
     <tr>
       <td><b>Unit 3:</b> Functions, Mouse Events, and Conditionals</td>
-      <td>Thursday, September 5th - Tuesday, October 1st</td>
+      <td>Wednesday, November 6th 2024<br>-<br>Wednesday, December 4th 2024</td>
       <td><b><u>Creative Development:</u></b> The Iterative Development Process, Collaborative Approaches to Software Development, Flow Charts, Sub-goal Labels, Code Tracing, Testing, and Debugging.<br><br>
       <b><u>Algorithms and Programming:</u></b> Input/Output, Variables/Assignment, Mathematical Expressions, Booleans, Conditionals, and Functions, and Event Handling.<br><br>
       <b><u>CMU Graphics:</u></b> The CMU Console, Print Statements, Mouse Events, and Shape Properties, and Shape Methods.<br><br>
@@ -152,13 +152,13 @@ Each task will be aligned to one or more course outcomes. You will receive a sep
     </tr>
     <tr>
       <td><b>Unit 4:</b> Data</td>
-      <td>Thursday, September 5th - Tuesday, October 1st</td>
+      <td>Thursday, December 5th 2024<br>-<br>Friday, December 20th 2024</td>
       <td><b><u>Data:</u></b> Data, Metadata, Data Visualization, Filtering/Cleaning Data, and Letting Data Tell a Story.<br><br>
       <b><u>Impact of Computing:</u></b> Crowdsourcing, Algorithmic Bias, and Machine Learning.
     </tr>
     <tr>
       <td><b>Unit 5:</b> Groups, Lists, and Loops</td>
-      <td>Thursday, September 5th - Tuesday, October 1st</td>
+      <td>Thursday, January 2nd 2024<br>-<br>Friday, January 17th 2024</td>
       <td><b><u>Creative Development:</u></b> The Iterative Development Process, Collaborative Approaches to Software Development, Flow Charts, Sub-goal Labels, Code Tracing, Testing, and Debugging.<br><br>
       <b><u>Algorithms and Programming:</u></b> Lists, List Methods, and Loops<br><br>
       <b><u>CMU Graphics:</u></b> Groups, Group Properties, and Group Methods.<br><br>
