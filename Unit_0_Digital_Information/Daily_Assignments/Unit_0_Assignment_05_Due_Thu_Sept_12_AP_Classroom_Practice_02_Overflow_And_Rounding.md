@@ -1,5 +1,5 @@
 # Unit 0, Assignment 5: AP Classroom Practice 05 - Overflow and Rounding
-Due: Thursday, September 14th 2024
+Due: Thursday, September 12th 2024
 
 1. Sign in to your AP Classroom account.
 2. Complete and submit AP Classroom Practice Set 02 - Overflow and Rounding.
