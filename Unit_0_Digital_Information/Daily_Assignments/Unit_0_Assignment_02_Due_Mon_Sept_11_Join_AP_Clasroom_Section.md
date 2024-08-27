@@ -1,4 +1,4 @@
-# Unit 0, Assignment 2: Join Our Section of AP Computer Science Principles on AP Classroom
+# Unit 0, Assignment 02: Join Our Section of AP Computer Science Principles on AP Classroom
 Due: Monday, September 11th 2024
 
 For this assignment, you will join our AP Classroom section.  You will be using AP classroom this year to access instructional videos, practice skills, take checkpoints/exams, and upload progress on your Create Performance Task to your AP Portfolio .  AP Classroom will also be an important resource you use to prepare for the AP Computer Science Principles Exam.
