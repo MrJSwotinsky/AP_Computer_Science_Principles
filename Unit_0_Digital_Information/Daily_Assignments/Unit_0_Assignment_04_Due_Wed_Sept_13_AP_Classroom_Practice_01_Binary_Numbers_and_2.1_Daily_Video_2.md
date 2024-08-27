@@ -8,27 +8,30 @@ Due: Wednesday, September 13th 2024
 3. Review your results.
 
 ## Part 2
-
+***Note**: For this part of the assignment, you will be formatting your work using markdown.  Markdown is a lightweight language for formatting text.  Markdown files end with the extension .md.  For a markdown cheat sheet, [click here](https://www.markdownguide.org/cheat-sheet/).*
 1. Sign into your GitHub account and create a new folder titled, `AP_Classroom_Reflections` containing a new file titled, `AP_Classroom_Practice_Set_01_Reflection.md`.<br>*Need help creating a new folder or file? [Click Here](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/How_To_Create_Folders_and_Files.md)*
 2. Click the pencil icon in the top right corner of the window to edit your file.<br>***Note:** As you edit your file, you can toggle back and forth between markdown code and a file preview by clicking the "Edit" and "Preview" buttons in the top left corner of the window.*
-3. Add an appropriate heading to the top of your file.https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/new/main/Resources
-   
-5. 
-[Click here for a markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/)
-
-6. For every question you answered incorrectly:
-   * Copy/Paste the question prompt into your file.
-   * Review your resources (e.g. feedback from AP Classroom, AP daily videos, your own notes, any other resources you have been provided) and consult with your colleagues to make sense of your mistake.
+3. Add an appropriate heading to the top of your file.<br>*Need help creating an appropriate heading? [Click Here](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/How_To_Create_an_Appropriate_Heading.md)*
+4. For every question you answered incorrectly, write a short reflection.  To write each reflection...
+   * Review your resources (e.g. feedback from AP Classroom, AP daily videos, your own notes, any other resources you have been created or been provided) and consult with your colleagues to make sense of your mistake.
+   * Copy/Paste the question prompt.
    * Explain your error.
+
+     For example, a reflection might look like...
   
-     Example/
+     > ### Which of the following are true statements about the data that can be represented using binary sequences?
+     > I originally selected choice A, I (Binary sequences can be used to represent strings of characters) and II (Binary sequences can be used to represent different colors) only.  I selected this choice, because these we learned how to convert strings and colors to binary in class, but I forgot that binary sequences can be used to represent ALL data (strings, colors, images, video, files, etc.).  So, I should have chosen choice D (I, II, and III).
 
-     ### Question Prompt Goes Here
-     Error Explanation Goes Here
+      The markdown code for this reflection would look like...
 
-7.  Click the green "Commit Changes" button in the top right corner of the screen.
-8.  Type a short but descriptive commit message (e.g. "Completed reflection for practice set 1.")
-9.  Click the green "Commit Changes" button.
+      ```markdown
+      ### Which of the following are true statements about the data that can be represented using binary sequences?
+      I originally selected choice A, I (Binary sequences can be used to represent strings of characters) and II (Binary sequences can be used to represent different colors) only.  I selected this choice, because these we learned how to convert strings and colors to binary in class, but I forgot that binary sequences can be used to represent ALL data (strings, colors, images, video, files, etc.).  So, I should have chosen choice D (I, II, and III).
+      ```
+
+5.  After you have completed all reflections, click the green "Commit Changes" button in the top right corner of the screen.
+6.  Type a short, but descriptive, commit message (e.g. "Completed all reflections for AP Classroom Practice Set 01.")
+7.  Click the green "Commit Changes" button.
 
 
 ## Part 3
