@@ -7,7 +7,7 @@
 3. Navigate to the specific repo or folder in which you will be creating a new file.
 4. Click the "Add File" button near the top right corner of the screen.
 5. Select "Create File".
-6. Enter the name for your file.  **Remember to include an appropriate extension.**<br>*For example, to create your first AP Classroom reflection file, consider the title, `YourFirstInitialYourLastName_AP_Classroom_Reflection_1_Binary_Numbers.md`*
+6. Enter the name for your file.  **Remember to include an appropriate extension.**<br>*For example, to create your first AP Classroom reflection file, consider the title, `YourFirstInitialYourLastName_AP_Classroom_Reflection_01_Binary_Numbers.md`*
 
 ### To create a new folder...
 
@@ -18,4 +18,4 @@
 3. Navigate to the specific repo or folder in which you will be creating a new folder.
 4. Click the "Add File" button near the top right corner of the screen.
 5. Select "Create File"
-6. Enter the name for your folder, follwed by a `\`, followed by the name of a new to store in your new folder. **Remember to include an appropriate extension.**<br>*For example, to create a folder for your AP Classroom reflections containing your first AP Classroom reflection file, consider the title, `Reflections\YourFirstInitialYourLastName_AP_Classroom_Reflection_1_Binary_Numbers.md`*
+6. Enter the name for your folder, follwed by a `\`, followed by the name of a new to store in your new folder. **Remember to include an appropriate extension.**<br>*For example, to create a folder for your AP Classroom reflections containing your first AP Classroom reflection file, consider the title, `Reflections\YourFirstInitialYourLastName_AP_Classroom_Reflection_01_Binary_Numbers.md`*
