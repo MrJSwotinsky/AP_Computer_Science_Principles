@@ -29,6 +29,8 @@ Due: Wednesday, September 13th 2024
       I originally selected choice A, I (Binary sequences can be used to represent strings of characters) and II (Binary sequences can be used to represent different colors) only.  I selected this choice, because these we learned how to convert strings and colors to binary in class, but I forgot that binary sequences can be used to represent ALL data (strings, colors, images, video, files, etc.).  So, I should have chosen choice D (I, II, and III).
       ```
 
+      ***Note**: If you answered every question correctly, submit a reflection for one question identifying an error someone might make and explaining that error.*
+
 5.  After you have completed all reflections, click the green "Commit Changes" button in the top right corner of the screen.
 6.  Type a short, but descriptive, commit message (e.g. "Completed all reflections for AP Classroom Practice Set 01.")
 7.  Click the green "Commit Changes" button.
@@ -42,7 +44,7 @@ Watch AP Classroom 2.1 Daily Video 2.
 **AP Classroom Practice 1 and Reflection**
 |Outcome|Mastery+|Proficient|Developing|Limited|Incomplete|
 |---|---|---|---|---|---|
-|**Employability Skills**|-|-|-|-|-|
+|**Employability Skills**|I have completed the practice set and submitted a clear, detailed, thoughtful, and appropriately formatted reflection for every question I answered incorrectly.<br><br>OR<br><br>I have answered every question correctly and submitted one clear, detailed, and thoughtful reflection describing an error someone might make and explaining that error. |I have completed the practice set and submitted a clear, detailed, thoughtful, and appropriately formatted reflection for most of the questions I answered incorrectly.|I have completed the practice set and submitted a clear, detailed, thoughtful, and appropriately formatted reflection for some of the questions I answered incorrectly.|I have completed the practice set and submitted a clear, detailed, thoughtful, and appropriately formatted reflection for few of the questions I answered incorrectly.|Either I have not completed the practice set or I have not I have not submitted any clear, detailed, thoughtful, and appropriately formatted reflections for the questions I answered incorrectly.|
 
 <br>
 
