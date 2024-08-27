@@ -1,5 +1,5 @@
 # Unit 0, Assignment 04: <br>-AP Classroom Practice 01 - Binary Numbers<br>-2.1 Daily Video 2
-Due: Wednesday, September 13th 2024
+Due: Wednesday, September 11th 2024
 
 ## Part 1
 
