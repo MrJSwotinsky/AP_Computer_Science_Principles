@@ -1,5 +1,5 @@
 # Unit 0 - Digital Information
-Thursday, September 5th - Tuesday, October 1st
+Thursday, September 5th 2024 - Tuesday, October 1st 2024
 
 ## Calendar
 
