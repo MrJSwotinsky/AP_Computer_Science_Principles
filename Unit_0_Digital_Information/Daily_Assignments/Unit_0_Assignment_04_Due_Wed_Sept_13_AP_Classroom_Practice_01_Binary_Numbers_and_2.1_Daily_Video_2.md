@@ -9,7 +9,7 @@ Due: Wednesday, September 13th 2024
 
 ## Part 2
 ***Note**: For this part of the assignment, you will be formatting your work using markdown.  Markdown is a lightweight language for formatting text.  Markdown files end with the extension .md.  For a markdown cheat sheet, [click here](https://www.markdownguide.org/cheat-sheet/).*
-1. Sign into your GitHub account and create a new folder titled, `AP_Classroom_Reflections` containing a new file titled, `LastNameFirstInitial_AP_Classroom_Practice_Set_01_Reflection.md`.<br>*Need help creating a new folder or file? [Click Here](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/How_To_Create_Folders_and_Files.md)*
+1. Sign into your GitHub account and create a new folder titled, `Reflections` containing a new file titled, `LastNameFirstInitial_AP_Classroom_Practice_Set_01_Reflection.md`.<br>*Need help creating a new folder or file? [Click Here](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/How_To_Create_Folders_and_Files.md)*
 2. Click the pencil icon in the top right corner of the window to edit your file.<br>***Note:** As you edit your file, you can toggle back and forth between markdown code and a file preview by clicking the "Edit" and "Preview" buttons in the top left corner of the window.*
 3. Add an appropriate heading to the top of your file.<br>*Need help creating an appropriate heading? [Click Here](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/How_To_Create_an_Appropriate_Heading.md)*
 4. For every question you answered incorrectly, write a short reflection.  To write each reflection...
