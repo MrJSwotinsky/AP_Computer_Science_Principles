@@ -11,11 +11,11 @@ Thursday, September 5th - Tuesday, October 1st
   </thead>
   <tbody>
     <tr valign = 'top'>
-      <td align='center'><b>Monday</b>
-      <td align='center'><b>Tuesday</b>
-      <td align='center'><b>Wednesday</b>
-      <td align='center'><b>Thursday</b>
-      <td align='center'><b>Friday</b>
+      <td align='center' width=20%><b>Monday</b>
+      <td align='center' width=20%><b>Tuesday</b>
+      <td align='center' width=20%><b>Wednesday</b>
+      <td align='center' width=20%><b>Thursday</b>
+      <td align='center' width=20%><b>Friday</b>
     </tr>
     <tr valign = 'top'>
       <td align='center'>
