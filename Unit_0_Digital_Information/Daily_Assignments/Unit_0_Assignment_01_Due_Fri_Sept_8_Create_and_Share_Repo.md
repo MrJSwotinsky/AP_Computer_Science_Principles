@@ -1,4 +1,4 @@
-# Unit 0, Assignment 1: Create and Share Your First GitHub Repo
+# Unit 0, Assignment 01: Create and Share Your First GitHub Repo
 Due: Friday, September 8th 2024
 
 For this assignment, you will create and share your first GitHub repository (aka 'repo').  A repo is similar to an web-based file directory.  It contains all of your files and each file's version history.  The repo you create for this assignment will serve as your school-based Computer Science portfolio.  As you continue forward in the Computer Science major, you will learn how to move selected files into a public-facing portfolio which will allow you to showcase your work to prospective employers and post-secondary institutions.  For now, you will start by uploading all files to your school-based portfolio.
