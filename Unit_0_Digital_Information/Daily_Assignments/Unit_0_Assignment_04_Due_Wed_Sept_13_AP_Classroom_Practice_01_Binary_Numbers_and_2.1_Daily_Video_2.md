@@ -3,23 +3,14 @@ Due: Wednesday, September 13th 2024
 
 ## Part 1
 
-Follow the steps below to add a new folder to your repo titled `AP_Classroom_Practice_Reflections` and a new file in that folder, titled `LastNameFirstInitial_AP_Classroom_Practice_01.md`
-
-1. Sign in to your GitHub account.
-2. Navigate to your repo.
-3. Click the "Add File" button.
-4. Click "Create New File"
-5. Name your file: `AP_Classroom_Practice_Reflections\LastNameFirstInitial_AP_Classroom_Practice_01.md`
+1. Sign in to your AP Classroom account.
+2. Complete and submit AP Classroom Practice Set 01 - Binary Numbers.
+3. Review your results.
 
 ## Part 2
 
-1. Sign in to your AP Classroom account.
-2. Complete and submit AP Classroom Practice Set 1 - Binary Numbers.
-3. Review your results.
-
-## Part 3
-
-1. Open `LastNameFirstInitial_AP_Classroom_Practice_01.md` (the file that you created in part 1).
+1. Sign into your GitHub account and create a new folder titled, `AP_Classroom_Reflections` containing a new file titled, `AP_Classroom_Practice_Set_01_Reflection.md`.<br>*Need help creating a new folder or file? [Click Here](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/How_To_Create_Folders_and_Files.md)*
+   
 2. Click the pencil icon in the top right corner of the window to edit your file.<br>***Note:** As you edit your file, you can toggle back and forth between markdown code and a file preview by clicking the "Edit" and "Preview" buttons in the top left corner of the window.*
 3. Using markdown, add an appropriate heading to your file, specifically:
    * Your full name.
@@ -43,7 +34,7 @@ Follow the steps below to add a new folder to your repo titled `AP_Classroom_Pra
 7.  Click the green "Commit Changes" button.
 
 
-## Part 4
+## Part 3
 
 Watch AP Classroom 2.1 Daily Video 2.
 
