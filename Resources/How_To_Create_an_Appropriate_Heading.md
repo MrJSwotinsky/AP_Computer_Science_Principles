@@ -11,7 +11,7 @@ For example, an appropriate heading for your first AP Classroom reflection might
 
 <br>
 
-> ## A. Student - AP Classroom Assignment 1 Reflection - Binary Numbers
+> ## A. Student - AP Classroom Assignment 01 Reflection - Binary Numbers
 > Wednesday, September 13th 2024
 
 <br>
@@ -19,6 +19,6 @@ For example, an appropriate heading for your first AP Classroom reflection might
 The markdown code to create this heading would look like...
 
 ```markdown
-## A. Student - AP Classroom Practice Set 1 Reflection - Binary Numbers
+## A. Student - AP Classroom Practice Set 01 Reflection - Binary Numbers
 Wednesday, September 13th 2024
 ```
