@@ -1,5 +1,5 @@
 # Unit 0, Assignment 03: AP Classroom 2.1 Daily Videos 1 and 3
-Due: Tuesday, September 12th 2024
+Due: Tuesday, September 10th 2024
 
 1. Watch AP Classroom 2.1 Daily Video 1.
 2. Watch AP Classroom 2.1 Daily Video 3.
