@@ -47,3 +47,9 @@ To create your first repo, follow the steps below...
 6. Click the "Collaborators" button on the side navigation bar.
 7. Click the "Add People" button, and enter the email address(es) of the person or people you would like to share your repo with.  For this assignment, share your repo with Mr. Swotinsky by entering JSwotinsky@schools.nyc.gov.
 8. Click the "Add Person" button to share your repo.
+
+## Rubric
+
+|Outcome|Mastery+|Incomplete|
+|---|---|---|
+|**Employability Skills**|I have created and shared my repo.|I have not yet created and shared my repo.|
