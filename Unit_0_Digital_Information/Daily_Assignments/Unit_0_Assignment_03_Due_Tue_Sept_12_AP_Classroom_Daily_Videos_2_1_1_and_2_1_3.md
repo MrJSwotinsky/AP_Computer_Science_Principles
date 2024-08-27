@@ -1,4 +1,4 @@
-# Unit 0, Assignment 3: AP Classroom Practice 1 - Binary Numbers
+# Unit 0, Assignment 3: AP Classroom 2.1 Daily Videos 1 and 3
 Due: Tuesday, September 12th 2024
 
 1. Watch AP Classroom 2.1 Daily Video 1.
