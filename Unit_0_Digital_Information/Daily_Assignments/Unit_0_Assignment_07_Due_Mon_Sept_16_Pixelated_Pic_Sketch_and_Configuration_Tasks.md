@@ -15,12 +15,29 @@ Due: Monday, September 16th 2024
 ## Part 2a - Configure your device.
 
 1. Navigate to your documents directory and create a new subdirectory named, `LastNameFirstInitial_Computer_Science_Portfolio`.
-2. Right click your new folder, select "Send To", and select "Desktop (Create Shortcut)."
+2. Right click your new directory, select "Send To", and select "Desktop (Create Shortcut)."
 3. Close out all windows.  You now have a desktop shortcut to your Computer Science Portfolio on your device.  
 
 ## Part 2b - Download and configure Python.
 
-## Part 2c - Download the Pillow package.
+1. Open your preferred web browser and navigate to https://python.org/downloads.
+2. Click the yellow button labeled "Download Python 3.12.5".
+3. Navigate to your downloads directory and double click the file you just downloaded (`python-3.12.5-amd64`) to install Python.
+   * Select "Install Now".
+   * After installation is complete, close the window.
+4. In the desktop search bar, type "IDLE", **right click** `IDLE (Python 3.12 64-bit)`, and select "Open File Location".  
+5. Right click `IDLE (Python 3.12 64-bit)`, select "Send To", and select "Desktop (Create Shortcut)."
+6. Close out all windows.  You now have a desktop shortcut to the Python IDLE.
+7. Open your file explorer, and from the top navigation bar select "View" > "Show" > "Hidden "Items".
+8. Navigate to This PC > C: > Users > YourUserName > AppData > Local > Programs > Python.
+9. Right click the directory titled `Python312`, select "Send To", and select "Desktop (Create Shortcut)."
+10. Close out all windows.  You now have a desktop shortcut to the directory that will contain your code files.
+    
+## Part 2c - Download and install Pillow.
+
+1. In the desktop search bar, type "cmd" to open the command prompt.
+2. Enter the command `cd AppData\Local\Programs\Python\Python312\Scripts` to navigate to the directory containing pip.
+3. Type the command `pip install Pillow` to download and install the Pillow package.
 
 ## Rubrics
 |Outcome|Mastery+|Proficient|Developing|Limited|Incomplete|
