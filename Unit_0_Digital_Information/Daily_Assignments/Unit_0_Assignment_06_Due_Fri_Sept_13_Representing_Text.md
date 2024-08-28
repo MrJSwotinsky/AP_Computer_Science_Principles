@@ -29,8 +29,11 @@ Due: Friday, September 13th 2024
 ## Part 3
 
 1. Scan your work into a single PDF document titled, `LastNameFirstInitial_Representing_Text_Work.pdf`.
+2. Upload the PDF of your work to your assignments folder.<br>*Need help uploading a file to GitHub? [Click Here](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/How_To_Upload_a_File_to_GitHub.md)*
 
-## Rubrics
+
+
+## Rubric
 |Outcome|Mastery+|Proficient|Developing|Limited|Incomplete|
 |---|---|---|---|---|---|
 |**Employability Skills**|---|---|---|---|---|
