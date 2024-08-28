@@ -40,6 +40,15 @@ Due: Monday, September 16th 2024
 3. Type the command `pip install Pillow` to download and install the Pillow package.
 
 ## Rubrics
+
+**Pixelated Pic Sketch**
+|Outcome|Mastery+|Incomplete|
+|---|---|---|
+|**Employability Skills**|I have uploaded a completed sketch of my pixelated pic to my Pixelated Pic Project folder.  My pixelated pic sketch contains one color per square and at least 5 colors for my entire pic.|I have not yet uploaded a completed sketch of my pixelated pic to my Pixelated Pic Project folder or my pixelated pic sketch does not contain one color per square and at least 5 colors for my entire pic.|
+
+<br>
+
+**Second Rubric**
 |Outcome|Mastery+|Proficient|Developing|Limited|Incomplete|
 |---|---|---|---|---|---|
 |**Employability Skills**|---|---|---|---|---|
