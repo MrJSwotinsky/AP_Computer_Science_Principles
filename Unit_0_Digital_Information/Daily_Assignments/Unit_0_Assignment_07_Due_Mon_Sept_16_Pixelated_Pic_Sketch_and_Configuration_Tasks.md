@@ -48,7 +48,7 @@ Due: Monday, September 16th 2024
 
 <br>
 
-**Second Rubric**
-|Outcome|Mastery+|Proficient|Developing|Limited|Incomplete|
-|---|---|---|---|---|---|
-|**Employability Skills**|---|---|---|---|---|
+**Configuration Tasks**
+|Outcome|Mastery+|Incomplete|
+|---|---|---|
+|**Employability Skills**|I have completed all configuration tasks.|I have not yet completed all configuration tasks.|
