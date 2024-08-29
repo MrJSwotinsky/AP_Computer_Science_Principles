@@ -1,3 +1,5 @@
+<p><img src="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/IEC%20Logo.jpeg"></p>
+
 **Inwood Early College for Health and Information Technologies**<br>
 *Career and Technical Education Department*<br>
 
