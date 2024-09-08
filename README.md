@@ -4,7 +4,7 @@
 *Career and Technical Education Department*<br>
 
 ## AP Computer Science Principles (TYS61XT / TYS62XT)- Course Syllabus
-CTE Computer Science Pathway - Course 3 of 8<br>
+CTE Computer Science Pathway - Courses 3 and 4 of 8<br>
 1 credit per semester / 54 hours per semester
 
 ***2024 - 2025 School Year***
@@ -17,9 +17,9 @@ CTE Computer Science Pathway - Course 3 of 8<br>
 
 **Digital Course Locatation:** https://github.com/MrJSwotinsky/AP_Computer_Science_Principles
 
-**Prerequisite:** Introduction to Web Development (HTML / CSS / JavaScript)
+**Prerequisites:** Introduction to Information Technology and Introduction to Web Development (HTML / CSS / JavaScript)
 
-**Course Description:** AP Computer Science Principles 1 is the first semester in a two-semester sequence. Together, AP Computer Science Principles 1 and 2 serve as the 3rd and 4th of 8 Computer Science courses required for the CTE Computer Science pathway at Inwood Early College. AP Computer Science Principles is designed to introduce you to a broad range of topics in the field of Computer Science. Through a variety of projects, you will learn to evaluate and solve problems by designing, coding, and debugging your own programs. You will also have the opportunity to examine how computing shapes our society by investigating topics such as the Internet, cybersecurity, data privacy, the digital divide, and other ethical issues in Computer Science. After successful completion of this course, you will not only be prepared for further exploration of topics in Computer Science. You will also be able to apply the skills you have learned to a variety of different contexts. This course is also designed to prepare you for the AP Computer Science Principles Exam.
+**Course Description:** AP Computer Science Principles 1 (Fall) and 2 (Spring) serve as the 3rd and 4th of 8 Computer Science courses required for the CTE Computer Science pathway at Inwood Early College. AP Computer Science Principles is designed to introduce you to a broad range of topics in the field of Computer Science. Through a variety of projects, you will learn to evaluate and solve problems by designing, coding, and debugging your own programs. You will also have the opportunity to examine how computing shapes our society by investigating topics such as the Internet, cybersecurity, data privacy, the digital divide, and other ethical issues in Computer Science. After successful completion of this course, you will not only be prepared for further exploration of topics in Computer Science. You will also be able to apply the skills you have learned to a variety of different contexts. This course is also designed to prepare you for the AP Computer Science Principles Exam.
 
 **Course Outcomes:** Upon successful completion of this course, you will be able to...
 
@@ -125,7 +125,7 @@ Each task will be aligned to one or more course outcomes. You will receive a sep
     </tr>
     <tr>
       <td><b>Unit 0:</b> Digital Information</td>
-      <td>Thursday, September 5th - Tuesday, October 1st</td>
+      <td>Thursday, September 5th 2024<br>-<br>Tuesday, October 1st 2024</td>
       <td><b><u>Data:</u></b> Representing Information, Binary Numbers, Overflow & Rounding, and Compression<br><br>
       <b><u>Impact of Computing:</u></b> Intellectual Property, and Impact of Digitizing Information.
       </td>
@@ -160,7 +160,7 @@ Each task will be aligned to one or more course outcomes. You will receive a sep
     </tr>
     <tr>
       <td><b>Unit 5:</b> Groups, Lists, and Loops</td>
-      <td>Thursday, January 2nd 2024<br>-<br>Friday, January 17th 2024</td>
+      <td>Thursday, January 2nd 2025<br>-<br>Friday, January 17th 2025</td>
       <td><b><u>Creative Development:</u></b> The Iterative Development Process, Collaborative Approaches to Software Development, Flow Charts, Sub-goal Labels, Code Tracing, Testing, and Debugging.<br><br>
       <b><u>Algorithms and Programming:</u></b> Lists, List Methods, and Loops<br><br>
       <b><u>CMU Graphics:</u></b> Groups, Group Properties, and Group Methods.<br><br>
