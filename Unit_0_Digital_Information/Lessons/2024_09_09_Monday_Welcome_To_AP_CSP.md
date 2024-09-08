@@ -29,8 +29,9 @@ Monday, September 9th 2024
 1. Class Introductions
 2. Navigating Our Digital Classroom
 3. Personal Device Policy
-4. Syllabus Review
-5. Check for Understanding
+4. A Note About Notes
+5. Syllabus Review
+6. Check for Understanding
 
 **HOMEWORK:** 
 1. [Unit 0 Assignment 01](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_0_Digital_Information/Daily_Assignments/Unit_0_Assignment_01_Due_Fri_Sept_6_Create_and_Share_Repo.md)
