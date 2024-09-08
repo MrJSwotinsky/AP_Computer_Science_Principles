@@ -17,7 +17,7 @@ Monday, September 9th 2024
     <td><b>DO NOW:</b> On the post it note in front of you, answer:<br><br>
     <ul>
       <li>What is your first name?</li>
-      <li> Why are you taking Computer Science? (If you selected Computer Science yourself, explain why.  If you are here because Computer Science is on your schedule, that is okay too.)</li>
+      <li> Why are you taking Computer Science? (If you selected Computer Science yourself, explain why.  If you are only here because Computer Science is on your schedule, that is okay too.)</li>
       <li> What is something unique about you that others might not know?</li>
     </ul>
     <b>Be prepared to share your responses</b>
