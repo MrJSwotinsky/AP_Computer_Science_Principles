@@ -1,4 +1,4 @@
-# Unit 0, Assignment 05: AP Classroom Practice 02 - Overflow and Rounding
+# Unit 0, Assignment 05: AP Classroom Practice 02 - Overflow and Roundoff Errors
 Due: Thursday, September 12th 2024
 
 1. Sign in to your AP Classroom account.
