@@ -111,21 +111,21 @@ Upload a written reflection to the pixelated pic project folder on GitHub that i
  <thead>
   <tr>
    <td>
-   <td> Mastery+ </td>
-   <td> Proficient </td>
-   <td> Developing </td>
-   <td> Limited </td>
-   <td> Not Yet Beginning </td>
+   <td> <b>Mastery+</b></td>
+   <td> <b>Proficient</b></td>
+   <td> <b>Developing</b></td>
+   <td> <b>Limited</b></td>
+   <td> <b>Not Yet Beginning</b></td>
   </tr>
  </thead>
  <tbody>
   <tr>
-   <td> Computational Thinking
-   <td> Mastery+ </td>
-   <td> Proficient </td>
-   <td> Developing </td>
-   <td> Limited </td>
-   <td> Not Yet Beginning </td>
+   <td> <b>Computational Thinking</b>
+   <td> All of my binary conversions are correct leading to a digital image that perfectly resembles my original sketch and all of my work is shown making all my thinking visible. </td>
+   <td> Almost all of my binary conversions are correct leading to a digital image that almost perfectly resembles my original sketch and almost all of my work is shown making almost all of my thinking visible. </td>
+   <td> Most of my binary conversions are correct leading to a digital image that mostly resembles my original sketch and most of my work is shown making most of my thinking visible. </td>
+   <td> Some of my binary conversions are correct leading to a digital image that somewhat resembles my original sketch and some of my work is shown making some of my thinking visible. </td>
+   <td> Few to none of my binary conversions are correct leading to a digital image that barely resembles matches my original sketch and little to none of my work is shown making little to none of my thinking visible. </td>
   </tr>
   <tr>
    <td> Communication
