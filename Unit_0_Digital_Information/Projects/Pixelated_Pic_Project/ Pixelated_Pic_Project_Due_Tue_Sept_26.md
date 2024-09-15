@@ -73,7 +73,7 @@ Now that you have created a grid of pixels in binary form, your next step is to 
 
 ## Part 5 - Generate A Digital Image Of Your Pixelated Pic
 
-Now that you have created a bitstring to represent the binary version of your pixelated pic, your next step is to generate a single bitstring to represent your pixelated pic in binary form!  Follow the steps below to create the binary version of your pixelated pic:
+Now that you have created a bitstring to represent the binary version of your pixelated pic, your next step is to generate a digital image of your pixelated pic!  Follow the steps below to create create a digital image of your pixelated pic.
 
 [Click here](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_0_Digital_Information/Projects/Pixelated_Pic_Project/my_pixelated_pic0_Example.tif) to see an example of what you will be creating.
 
@@ -81,15 +81,75 @@ Now that you have created a bitstring to represent the binary version of your pi
 2. Run the Pixelated_Pic_Project_Image_Builder python file you just downloaded.
 3. When prompted, copy/paste your bitstring and press "Enter".
 4. Check your `Python312` directory for a new file titled `my_pixelated_pic0.tif` and open it to see a digital image of the pixelated pic you created!
+5. Upload this file to your pixelated pic project folder on GitHub.
 
-**What if the image I see is not my pixelated pic?**  If this applies to you, it most likely means you have made an error.  However, there is no need to worry.  First, upload your pixelated pic to your pixelated pic project folder on GitHub.  Then try out the troubleshooting steps below.
+**What if the image I see is not my pixelated pic?**  If this applies to you, it most likely means you have made an error.  However, there is no need to worry.  First, upload the current version of your pixelated pic to your pixelated pic project folder on GitHub.  Then, try out the troubleshooting steps below.
 
-* Double check your binary conversions for each color for binary conversion errors.
+* Double check your binary conversions for conversion errors.
 * Double check your bitstring for copy/paste errors.
 * Consult with colleagues to get additional perspective.
-* **For each revision attempt**, upload all updates to your pixelated pic project folder on GitHub.  Updated files should include:
-    * Your Binary Pixels Grid
-    * Your Graphic Organizers
-    * Your BitString
-    * Your Final Image.
-  
+
+It may take a few a few attempts to find and correct all errors.  Don't worry.  This is a natural part of the software development process.<br><br> **For each revision attempt, be sure to update and upload all of the following:**
+* Your Binary Pixels Grid
+* Your Graphic Organizers
+* Your BitString
+* Your Final Image
+
+## Part 6 - Reflect On Your Work
+
+Upload a written reflection to the pixelated pic project folder on GitHub that includes 5 paragraphs to address the following prompts:
+
+* In your own words, describe this project, its purpose, and what it meant to you.
+* In what ways did this project contribute to your overall learning experience as a Computer Science major.
+* How did you iteratively develop your work on this project over time? (Include specific examples.)
+* Looking back, what might you have done differently?
+* If you were given the opportunity to further develop your work on this project, what would your next steps be?
+
+## Rubric
+
+<table>
+ <thead>
+  <tr>
+   <td>
+   <td> Mastery+ </td>
+   <td> Proficient </td>
+   <td> Developing </td>
+   <td> Limited </td>
+   <td> Not Yet Beginning </td>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td> Computational Thinking
+   <td> Mastery+ </td>
+   <td> Proficient </td>
+   <td> Developing </td>
+   <td> Limited </td>
+   <td> Not Yet Beginning </td>
+  </tr>
+  <tr>
+   <td> Communication
+   <td> Mastery+ </td>
+   <td> Proficient </td>
+   <td> Developing </td>
+   <td> Limited </td>
+   <td> Not Yet Beginning </td>
+  </tr>
+  <tr>
+   <td> Design Thinking
+   <td> Mastery+ </td>
+   <td> Proficient </td>
+   <td> Developing </td>
+   <td> Limited </td>
+   <td> Not Yet Beginning </td>
+  </tr>
+  <tr>
+   <td> Employability Skills
+   <td> Mastery+ </td>
+   <td> Proficient </td>
+   <td> Developing </td>
+   <td> Limited </td>
+   <td> Not Yet Beginning </td>
+  </tr>
+ </tbody>
+</table>
