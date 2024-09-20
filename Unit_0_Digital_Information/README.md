@@ -39,7 +39,7 @@ Thursday, September 5th 2024 - Tuesday, October 1st 2024
       <td align='center'><b>20</b><br><br>Pixelated Pic Task Work Day
     </tr>
     <tr valign = 'top'>
-      <td align='center'><b>23</b><br><br>SCHOOLS CLOSED<br>(Yom Kippur)
+      <td align='center'><b>23</b><br><br>
       <td align='center'><b>24</b><br><br><b>CHECKPOINT 2<br>(Compression)<br><br>PIXELATED PIC PROJECT DUE</b>
       <td align='center'><b>25</b><br><br><br>Intellectual Property
       <td align='center'><b>26</b><br><br>Digital Information Dilemmas
