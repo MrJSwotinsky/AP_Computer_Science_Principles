@@ -38,4 +38,4 @@ Monday, September 23rd 2024
 
 
 **HOMEWORK:** <br>
-[Unit 0 Assignment 12 - Pixelated Pic Project Due Tomorrow](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_0_Digital_Information/Projects/Pixelated_Pic_Project/%20Pixelated_Pic_Project_Due_Tue_Sept_26.md)
+[Unit 0 Assignment 12 - Pixelated Pic Project Due Tomorrow](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_0_Digital_Information/Daily_Assignments/Unit_0_Assignment_11_Due_Tue_Sept_24_Pixelated_Pix_Project_Due.md)
