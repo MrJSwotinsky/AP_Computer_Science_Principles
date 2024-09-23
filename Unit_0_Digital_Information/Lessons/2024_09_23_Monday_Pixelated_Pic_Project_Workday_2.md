@@ -17,7 +17,6 @@ Monday, September 23rd 2024
     - [ ] I have converted my binary string to a digital version of my pixelated pic sketch using the python program I have been provided.
     - [ ] I have organized my work appropriately in my GitHub portfolio.
     - [ ] I have thoroughly reflected on my work.
-- [ ] I can describe the advantages and disadvantages of lossy and lossless compression.
 
 <table>
   <tr>
