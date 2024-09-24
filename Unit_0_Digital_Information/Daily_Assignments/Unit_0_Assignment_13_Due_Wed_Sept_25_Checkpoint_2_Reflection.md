@@ -1,4 +1,4 @@
-# Unit 0, Assignment 12: Checkpoint 2 Reflection
+# Unit 0, Assignment 13: Checkpoint 2 Reflection
 Due: Wednesday, September 25th 2024
 
 ## Part 1
