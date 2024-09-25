@@ -23,22 +23,23 @@
 **AGENDA:**
 
 1. Do now share out
-2. Turn & Talk
-3. What do we mean by intellectual property?
+2. What do we mean by intellectual property?
+3. Turn & Talk
 4. Copyright 
 5. Legal repercussions
 6. Creative Commons & More
 7. Copyright case study jigsaw
 8. Jigsaw share out
 
-**TURN & TALK**
-<br>Imagine you created an image and you posted it online for your friends to see - but, a week later you find out someone took that image and put it on a T-shirt that they’re selling for $10 each. What strikes you as fair or unfair? How could this be more fair? 
-
 **WHAT DO WE MEAN BY INTELLECTUAL PROPERTY?**
 - When you create materials on the computer, you own them - they are your "Intellectual Property".
 - Using materials created by someone else and trying to pass them off as your own is plagiarism when you don't have the creator's permissions.
 - There may even be legal consequences for using these materials!
-- It can be complicated when we talk about ownership of digital information. 
+- It can be complicated when we talk about ownership of digital information.
+
+**TURN & TALK**
+<br>Imagine you created an image and you posted it online for your friends to see - but, a week later you find out someone took that image and put it on a T-shirt that they’re selling for $10 each. What strikes you as fair or unfair? How could this be more fair? 
+
 
 **COPYRIGHT**
 - Copyright is one way to assert ownership over your intellectual property.
