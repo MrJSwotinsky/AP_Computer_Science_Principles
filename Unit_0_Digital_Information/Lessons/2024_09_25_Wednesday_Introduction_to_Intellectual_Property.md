@@ -27,7 +27,7 @@
 3. Turn & Talk
 4. Copyright 
 5. Legal repercussions
-6. Creative Commons & More
+6. [Creative Commons & More](https://creativecommons.org/)
 7. Copyright case study jigsaw
 8. Jigsaw share out
 
