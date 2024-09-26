@@ -16,11 +16,22 @@ Due: Wednesday, October 2nd 2024
     * Open source software.
     * Open access materials.
     * Creative Commons licenses.
-
+ 
+**To submit your project, create a new folder in your AP CSP portfolio, titled `Intellectual Property PSA Project` and upload your work to your new folder.**
 
 ## Format:
 
 To present your PSA, you may use any format (Trifold, Canva, Slide Presentation, Video, Song, Paper, etc.).  However, whatever format you use, you must capture and upload a digital version.  For example, if you create a trifold, you should scan and submit your trifold.  If you create a song, you should submit a digital recording of your song. Etc.
+
+## Part Reflect On Your Work
+
+Upload a written reflection to the intellectual property psa project folder on GitHub that includes 5 paragraphs to address the following prompts:
+
+* In your own words, describe this project, its purpose, and what it meant to you.
+* In what ways did this project contribute to your overall learning experience as a Computer Science major.
+* How did you iteratively develop your work on this project over time? (Include specific examples.)
+* Looking back, what might you have done differently?
+* If you were given the opportunity to further develop your work on this project, what would your next steps be?
 
 ## Rubric
 
