@@ -20,7 +20,7 @@ Due: Wednesday, October 2nd 2024
 
 ## Format:
 
-To present your PSA, you may use any format (Trifold, Slide Presentation, Video, Song, Paper, etc.).  However, whatever format you use, you must capture and upload a digital version.  For example, if you create a trifold, you should scan and submit your trifold.  If you create a song, you should submit a digital recording of your song. Etc.
+To present your PSA, you may use any format (Trifold, Canva, Slide Presentation, Video, Song, Paper, etc.).  However, whatever format you use, you must capture and upload a digital version.  For example, if you create a trifold, you should scan and submit your trifold.  If you create a song, you should submit a digital recording of your song. Etc.
 
 ## Rubric
 
