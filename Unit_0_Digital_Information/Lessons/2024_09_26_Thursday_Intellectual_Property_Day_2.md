@@ -15,7 +15,7 @@
 <table>
   <tr>
     <td><b>DO NOW:</b>
-      <br> Sit with your group members, and independently read your article until the timer goes off.
+      <br> Sit with your group members, and independently read your article until the timer goes off. Be sure to make it through at least 2 paragraphs.
     </td>
     </tr>
 </table>
