@@ -41,7 +41,7 @@
 **Period 8**
 
 |Group 1|Group 2|Group 3|Group 4|
-|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|
 |Jonathan|Mia|Engels|Rosemaylin|
 |Joel|Andrielys|Melanie|Andrews|
 |Asher|Leison|
