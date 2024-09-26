@@ -23,7 +23,7 @@ Due: Wednesday, October 2nd 2024
 
 To present your PSA, you may use any format (Trifold, Canva, Slide Presentation, Video, Song, Paper, etc.).  However, whatever format you use, you must capture and upload a digital version.  For example, if you create a trifold, you should scan and submit your trifold.  If you create a song, you should submit a digital recording of your song. Etc.
 
-## Part Reflect On Your Work
+## Reflect On Your Work
 
 Upload a written reflection to the intellectual property psa project folder on GitHub that includes 5 paragraphs to address the following prompts:
 
