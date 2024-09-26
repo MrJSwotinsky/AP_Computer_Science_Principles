@@ -64,5 +64,13 @@
 
 <br><ins>During the presentations, take notes on things that stand out about the other group's presentations. You will use these for your homework.</ins>
 
+**ANNOUNCEMENTS**
+- Intellectual Property Checkpoint TOMORROW! Study by reviewing notes, assignment from last night, and starting your Intellectual Property PSA Project.
+- Intellectual Property PSA Project has been posted! It is due on Monday.
+- Parent-Teacher night is tonight! You will receive a grade for one of the three options:
+-   Your parent attending tonight
+-   Your parent scheduling a phone call with Swotinsky if they cannot attend tonight
+-   <B> OR </B> Student (you) scheduling a meeting with Swotinsky to talk about curricular goals if the other two options do not work.
+
 **HOMEWORK:**
 [Unit 0 Assignment 15](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_0_Digital_Information/Daily_Assignments/Unit_0_Assignment_15_Due_Fri_Sept_27_Intellectual_Property_Reflection.md)
