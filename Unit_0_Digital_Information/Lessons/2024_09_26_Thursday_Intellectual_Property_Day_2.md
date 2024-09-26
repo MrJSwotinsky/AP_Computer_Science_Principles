@@ -22,10 +22,10 @@
 
 **AGENDA:**
 
-1. Do now share out
-2. Creative Commons & More
-3. Copyright case study jigsaw
-4. Jigsaw share out
+1. Do now 
+2. Work on your slide with your group
+3. Presentations (3 min each)
+4. Announcements
 
 **COPYRIGHT CASE STUDY JIGSAW**
 
