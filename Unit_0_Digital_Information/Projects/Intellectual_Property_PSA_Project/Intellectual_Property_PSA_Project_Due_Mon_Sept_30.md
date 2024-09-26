@@ -47,13 +47,13 @@ Upload a written reflection to the intellectual property psa project folder on G
   </tr>
  </thead>
  <tbody>
-  <tr>
-   <td> <b>Computational Thinking</b>
-   <td> All of my binary conversions are correct leading to a digital image that perfectly resembles my original sketch and all of my work is shown making all my thinking visible. </td>
-   <td> Almost all of my binary conversions are correct leading to a digital image that almost perfectly resembles my original sketch and almost all of my work is shown making almost all of my thinking visible. </td>
-   <td> Most of my binary conversions are correct leading to a digital image that mostly resembles my original sketch and most of my work is shown making most of my thinking visible. </td>
-   <td> Some of my binary conversions are correct leading to a digital image that somewhat resembles my original sketch and some of my work is shown making some of my thinking visible. </td>
-   <td> Few to none of my binary conversions are correct leading to a digital image that barely resembles matches my original sketch and little to none of my work is shown making little to none of my thinking visible. </td>
+ <tr>
+   <td> <b>Engage in safe, ethical, and legal computing practices.</b>
+   <td> My PSA thoroughly address all topics in a manner that is accurate and demonstrates genuine, in depth understanding. </td>
+   <td> My PSA address almost all topics in a manner that is accurate and demonstrates understanding. </td>
+   <td> My PSA address most topics in a manner that is accurate and demonstrates understanding. </td>
+   <td> My PSA address some topics in a manner that is accurate and demonstrates understanding. </td>
+   <td> My PSA address few to no topics in a manner that is accurate or demonstrates understanding. </td>
   </tr>
   <tr>
    <td> <b>Communication</b>
