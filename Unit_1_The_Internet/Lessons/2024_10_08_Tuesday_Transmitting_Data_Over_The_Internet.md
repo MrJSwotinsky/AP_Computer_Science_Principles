@@ -48,7 +48,7 @@ Tuesday, October 8th 2024
 - What kind of information can we include with each piece to make this process smoother between the sender and receiver?
 
 **PUTTING IT ALL TOGETHER (VOCABULARY)**
-<ins>Make sure to get these down in your notes as we talk about them</ins>
+<br><ins>Make sure to get these down in your notes as we talk about them</ins>
 - Network
 - Packets & their characteristics
   - Metadata
