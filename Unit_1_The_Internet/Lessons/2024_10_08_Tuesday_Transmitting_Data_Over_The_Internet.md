@@ -48,14 +48,11 @@ Tuesday, October 8th 2024
 - What kind of information can we include with each piece to make this process smoother between the sender and receiver?
 
 **PUTTING IT ALL TOGETHER (VOCABULARY)**
-- A <b>Network</b> is made up of devices that are connected (by wires, or wirelessly)
-- Large files (pictures, emails, files, etc) are split into <b>packets</b> (pieces) to be sent from a sender to a recipient
-  - <b>Packets</b> may take different routes through the network and arrive out of order
-  - Packets include <b>metadata</b> like their IP address or a packet number to help move them through the network or reorganize them when they arrive
-  - A <b> datastream </b> is a continuous flow of data that is being transmitted or received. It can be thought of as a steady stream of information flowing from one point to another. 
-- A <b>Protocol</b> is a set of rules for how connected devices communicate across a network to send information easily and safely
-  - Protocols can ensure that packets that arrive out of order or are lost are re-ordered
-- Collectively this system makes the Internet more reliable
+- Network
+- Packets & their characteristics
+  - Metadata
+- Datastream
+- Protocol
 
 **HOMEWORK:**<br><br>
 **Due Tomorrow:** [Unit 1 Assignment 04](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_1_The_Internet/Daily_Assignments/04_Due_Wed_Oct_9_Data_Transmission_Over_The_Internet.md)<br>
