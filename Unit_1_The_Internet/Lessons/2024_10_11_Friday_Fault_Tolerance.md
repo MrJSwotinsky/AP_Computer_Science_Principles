@@ -34,3 +34,4 @@ Friday, October 11th 2024
    
 **HOMEWORK:** <br><br>
 [Unit 1 Assignment 07](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_1_The_Internet/Daily_Assignments/07_Due_Tue_Oct_15_Fault_Tolerance.md)
+[Unit 1 Assignment 08](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_1_The_Internet/Daily_Assignments/08_Due_Tue_Oct_15_Daily_Video_4_3_1.md)
