@@ -48,7 +48,7 @@ cmu_graphics.run()
 ```
 4. Save and run your file.  A new window will open containing an image of a black square.
 5. Capture a screenshot of this image, title it `LastNameFirstInitial_My_First_CMU_Graphics_Program.tif' and save it to the AP CSP Portfolio on your desktop.
-6. Upload both `LastNameFirstInitial_My_First_CMU_Graphics_Program.py' and `LastNameFirstInitial_My_First_CMU_Graphics_Program.tif' to a new folder in your GitHub portfolio titled, `Labs`
+6. Upload both `LastNameFirstInitial_My_First_CMU_Graphics_Program.py` and `LastNameFirstInitial_My_First_CMU_Graphics_Program.tif` to a new folder in your GitHub portfolio titled, `Labs`
 
 ## Rubric
 
