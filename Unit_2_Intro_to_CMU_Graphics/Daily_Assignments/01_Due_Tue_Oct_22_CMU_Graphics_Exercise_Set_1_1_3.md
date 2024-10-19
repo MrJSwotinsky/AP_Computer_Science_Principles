@@ -1,4 +1,4 @@
-# Unit 2, Assignment 1: Lab 1 - CMU Graphics Exercise Set 1.1.3
+# Unit 2, Assignment 1: CMU Graphics Exercise Set 1.1.3
 Due: Tuesday, October 22nd 2024
 
 Complete Exercise Set 1.1.3 on CMU Graphics.
