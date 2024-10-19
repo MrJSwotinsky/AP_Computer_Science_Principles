@@ -18,6 +18,7 @@ cmu_graphics.run()
 
 2. Use comments code comments to respond to the following prompts.  Remember, code comments start with the `#` symbol and end at the end of the line.
 
+* Describe the difference between parameters and arguments.  Provide some examples.
 * What does the argument passed to the `fill` parameter in the `Rect()` function represent?
 * What parameter cam an argument be passed to to set the color of a rectangle's border?
 * Provide a link to the list of CMU Graphics' built-in colors.
