@@ -46,6 +46,8 @@ How can we customize the colors of rectangles using gradients?
 5. Practice - CMU Graphics Exercise Set 1.2.2
    
 **HOMEWORK:** <br><br>
+[Unit 2 Assignment 05](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_2_Intro_to_CMU_Graphics/Daily_Assignments/05_Due_Thu_Oct_24_CMU_Graphics_Exercise_Set_1_2_2.md)<br>
+[Unit 2 Assignment 06](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_2_Intro_to_CMU_Graphics/Daily_Assignments/06_Due_Thu_Oct_24_Lab_3_Gradients.md)
 
 ## Resources
 
