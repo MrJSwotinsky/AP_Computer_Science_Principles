@@ -63,6 +63,8 @@ How do we code and customize ovals, circles, and stars?
 5. Practice: Start your assignment below.
    
 **HOMEWORK:** <br><br>
+[Unit 2 Assignment 07](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_2_Intro_to_CMU_Graphics/Daily_Assignments/07_Due_Fri_Oct_25_Lab_4_Ovals_Circles_Stars.md)<br>
+
 
 ## Resources
 
