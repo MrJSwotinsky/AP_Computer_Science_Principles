@@ -20,8 +20,8 @@ How do we code and customize Lines, Polygons, and Labels?
     <td>
       <b>DO NOW:</b><br>
       1. In your IDLE make a new file called "Lines_Polygons_Labels_Notes.py" and paste in the starter code from the agenda. <br><br>
-      2. Refer back to the Star syntax (at the bottom of this lesson or in your notes) and recreate the following image:<br> 
-      <i>For an extra challenge: use the rotateAngle property (which takes a number 0-360) to make rotate the star upside down. </i><br>
+      2. Use the Star syntax to recreate the following image:  <br>Star(centerX, centerY, radius, points)<br><br>
+      <i>For an extra challenge: use the rotateAngle property (which takes a number 0-360) to make rotate the star upside down. </i><br><br>
       <img src="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/Star.png" width="300px">
 </td>
 </tr>
@@ -54,7 +54,7 @@ How do we code and customize Lines, Polygons, and Labels?
 3. Practice: CMU Graphics Exercises 1.2.5
    
 **HOMEWORK:** <br><br>
-[Unit 2 Assignment 07](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_2_Intro_to_CMU_Graphics/Daily_Assignments/07_Due_Fri_Oct_25_Lab_4_Ovals_Circles_Stars.md)<br>
+[Unit 2 Assignment 08](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_2_Intro_to_CMU_Graphics/Daily_Assignments/08_Due_Mon_Oct_28_CMU_Graphics_Exercise_Set_1_2_5_and_1_3.md)<br>
 
 
 ## Resources
