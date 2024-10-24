@@ -20,10 +20,8 @@ How do we code and customize Lines, Polygons, and Labels?
     <td>
       <b>DO NOW:</b><br>
       1. In your IDLE make a new file called "Lines_Polygons_Labels_Notes.py" and paste in the starter code from the agenda. <br><br>
-      2. Consider the following new syntax, and refer to the resources at the bottom of the lesson, to code the following images: 
-      - Using only Lines: 
-      - Using one Polygon: 
-      - Using a Star: 
+      2. Refer back to the Star syntax (at the bottom of this lesson or in your notes) and recreate the following image:
+      
       
 </td>
 </tr>
@@ -31,7 +29,7 @@ How do we code and customize Lines, Polygons, and Labels?
 
 **AGENDA:**
 
-1. Lines, Polygons and Labels Code Along
+1. Labels Code Along
     * Starter Code
       ```python
       # Import the CMU Graphics Package:
@@ -40,7 +38,11 @@ How do we code and customize Lines, Polygons, and Labels?
       # Run program:
       cmu_graphics.run()
       ```
-2. 
+2. Lines and Polygons
+  * Consider the following old/new syntax, and refer to the resources at the bottom of the lesson, to code the following images: 
+      - Using only Lines: 
+      - Using one Polygon: 
+      - Using a Star: 
    
 5. Practice: CMU Graphics Exercises 1.2.5
    
