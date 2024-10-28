@@ -39,10 +39,11 @@ How can we apply what we have learned about generating and customizing shapes in
 4. Emoji Project Work Time
    
 **HOMEWORK:** <br><br>
-[Emoji Project - Due: Monday, November 4th 2024](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_2_Intro_to_CMU_Graphics/Projects/Emoji_Project.md)<br>
+[Emoji Project - Due: Monday, November 4th 2024](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_2_Intro_to_CMU_Graphics/Projects/Emoji_Project.md)<br><br>
 **By the end of tonight, you should have made the following progress:**<br>
 * `Emoji_Project` folder created in GitHub AP CSP Portfolio
 * Written description or sketch of initial idea uploaded to `Emoji_Project` folder.
+* Initial code with at least one commit uploaded to `Emoji_Project` folder.
 
 ## Resources
 
