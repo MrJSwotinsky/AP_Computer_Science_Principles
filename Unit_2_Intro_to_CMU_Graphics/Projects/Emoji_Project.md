@@ -6,8 +6,8 @@ Due: Monday, November 4th 2024
 ## To be submitted:
 Upload the following items to a new folder in your GitHub AP CSP Portfolio titled, `Emoji_Project`:<br><br>
 * An initial description or sketch of your emoji.
-* The code required to produce your emoji (including a robust and well-documented version history).
-* An image of your emoji (including a robust and well-documented version history).
+* The code required to produce your emoji (including appropriate comments and a robust, well-documented version history).
+* An image of your emoji (including a robust, well-documented version history).
 * A written reflection
 
 ## Requirements:
