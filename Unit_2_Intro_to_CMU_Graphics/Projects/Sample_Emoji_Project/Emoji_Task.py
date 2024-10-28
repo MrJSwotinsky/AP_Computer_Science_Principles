@@ -1,5 +1,8 @@
+# Import what I need from CMU graphics:
 from cmu_graphics import *
 
-Circle(200,200,10)
-    
+# Yellow Circle:
+Circle(200,200,100, fill='yellow')
+
+# Run Program:    
 cmu_graphics.run()
