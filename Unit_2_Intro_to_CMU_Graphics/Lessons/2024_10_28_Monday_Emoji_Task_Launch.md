@@ -23,7 +23,7 @@ How can we apply what we have learned about generating and customizing shapes in
       <b>DO NOW:</b><br>
       1. <a href='https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_2_Intro_to_CMU_Graphics/Projects/Emoji_Project.md'>Click here to review the Emoji Project you will begin working on today</a>. <br><br>
       2. In your notes, write down at least three things you notice about the Emoji Project.<br><br>
-      3. In your notes, write down at least one question you have about the Emjoi Project.
+      3. In your notes, write down at least one question you have about the Emoji Project.
 </td>
 </tr>
 </table>
