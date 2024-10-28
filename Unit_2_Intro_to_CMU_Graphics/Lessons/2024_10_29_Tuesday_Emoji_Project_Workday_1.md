@@ -39,7 +39,7 @@ How can I use comments to organize my code and start coding a first draft of my 
     - Consider: Are my elements listed in the proper order? (Remember, lines of code are run in order. If you are coding different layers, the bottom layers need to be coded before the top layers)
 3. Start a first draft of your project
     - Under each comment, start writing the code for that element.
-4. Get and record one piece of feedback from a peer
+4. Peer feedback: Pair up, and using the handout provided, provide your peer with feedback on their progress.
 
 **HOMEWORK:**
 1. Work on your project, making at least 3 commits. For one of your commits, implement the feedback you got from your peer at the end of class.
