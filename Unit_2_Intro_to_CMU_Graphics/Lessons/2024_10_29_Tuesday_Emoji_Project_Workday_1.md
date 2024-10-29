@@ -4,7 +4,7 @@ Tuesday, October 29th 2024
 ### Emoji Project Workday #1
 
 **AIM(s):** <br>
-How can I use comments to organize my code and start coding a first draft of my emoji project? <br><br>
+How can I use sub-goal labels to organize my code and start coding a first draft of my emoji project? <br><br>
 
 **OUTCOME ALIGNMENT**:<br> 
 <ins>TYS61XT.3</ins> Code using appropriate programming logic.<br> 
