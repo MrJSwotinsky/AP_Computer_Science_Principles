@@ -13,7 +13,7 @@ How can I use sub-goal labels to organize my code and start coding a first draft
 <ins>TYS61XT.6</ins> Engage in the design thinking process to iteratively develop your work.<br> 
 
 **SUCCESS CRITERIA:**
-- [ ] I have written comments to outline my code
+- [ ] I have written comments to outline my code (these are called sub-goal comments)
 - [ ] I have started coding a first draft of my emoji project
 - [ ] I have received and recorded one piece of feedback from a peer.
 
