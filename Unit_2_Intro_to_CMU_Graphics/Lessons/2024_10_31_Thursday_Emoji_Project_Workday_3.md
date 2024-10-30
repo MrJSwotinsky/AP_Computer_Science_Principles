@@ -20,8 +20,9 @@ How can I complete a first draft of my emoji project? How can I give meaningful 
   <tr>
     <td>
       <b>DO NOW:</b><br>
-      1. Sit according to the seating chart below. 
-      2. Open your project code file and get to work, picking up where you left off yesterday. <br>
+      1. Sit according to the seating chart below. <br>
+      2. Open your project code file and get to work, picking up where you left off yesterday. <br><br>
+      <img src = "https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/2024_10_30_Seating_Chart.jpeg" width="700">
 </td>
 </tr>
 </table>
@@ -53,6 +54,8 @@ for i in range(16):  # 16 rows
 # Run program:
 cmu_graphics.run()
 ```
+<img src = "https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/Coordinate_Grid.png" width="500">
+
 4. Peer feedback: Pair up, and using the handout provided, provide your peer with feedback on their progress.
 
 **HOMEWORK:**
