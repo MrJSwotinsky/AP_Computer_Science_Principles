@@ -4,7 +4,7 @@ Thursday, October 31st 2024
 ### Emoji Project Workday #3
 
 **AIM(s):** <br>
-How can I complete a first draft of my emoji project? How can I give meaningful and constructive feedback to my peers<br><br>
+How can I complete a first draft of my emoji project? How can I start a final draft? How can I give meaningful and constructive feedback to my peers<br><br>
 
 **OUTCOME ALIGNMENT**:<br> 
 <ins>TYS61XT.3</ins> Code using appropriate programming logic.<br> 
@@ -14,6 +14,7 @@ How can I complete a first draft of my emoji project? How can I give meaningful 
 
 **SUCCESS CRITERIA:**
 - [ ] I have finished coding a first draft of my emoji project
+- [ ] I have started a final draft of my emoji project.
 - [ ] I have received and recorded one piece of feedback from a peer.
 
 <table>
