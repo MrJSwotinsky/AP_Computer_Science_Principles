@@ -12,7 +12,7 @@ How can I show off my emoji project? In what ways can I learn from my peers' pro
 
 **SUCCESS CRITERIA:**
 - [ ] I gave feedback to at least three people during the gallery walk.
-- [ ] I reflected thoughtfully on my own work.
+- [ ] My exit ticket responses demonstrate that I have reflected thoughtfully on my own work.
 
 <table>
   <tr>
