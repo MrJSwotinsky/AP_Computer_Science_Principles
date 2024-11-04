@@ -11,8 +11,8 @@ How can I show off my emoji project? In what ways can I learn from my peers' pro
 <ins>TYS61XT.8</ins> Model employability skills such as personal mindset, planning for success, and collaboration.<br> 
 
 **SUCCESS CRITERIA:**
-- [ ] I have presented my project to one of my peers.
 - [ ] I engaged in the feedback process during the gallery walk.
+- [ ] I reflected thoughtfully on my process.
 
 <table>
   <tr>
