@@ -21,15 +21,44 @@ How can I use functions to organize and simplify my code? How can I test my func
     <td>
       <b>DO NOW:</b><br>
       1. Open a new file in your IDLE, named Function_Basics.py <br>
-      2. Copy and paste in the starter code from the agenda. <br><br>
+      2. Copy and paste in the starter code from the agenda. <br>
+      3. Run the code, and make an observation the difference between the shapes on the screen <br><br>
 </td>
 </tr>
 </table>
 
 **AGENDA:**
-1. Do Now
-2. Function Basics, Testing, and Debugging Code Along
-3. Exercises
+1. Do Now: Starter Code
+    ```python
+    # Import the CMU Graphics Package:
+    from cmu_graphics import *
+
+    Circle(50, 200, 30, fill='blue', border='black')
+    Label('Hello!', 50, 200, fill='white', size=15)
+    
+    Circle(100, 200, 30, fill='blue', border='black')
+    Label('Hello!', 100, 200, fill='white', size=15)
+    
+    Circle(100, 200, 30, fill='blue', border='black')
+    Label('Hello!', 100, 200, fill='white', size=15)
+
+    Circle(150, 200, 30, fill='blue', border='black')
+    Label('Hello!', 150, 200, fill='white', size=15)
+    
+    # Run program:
+    cmu_graphics.run()
+    ```
+3. Function Basics, Testing, and Debugging Code Along
+  - Functions
+    - Parameters
+    - Function Calls
+     - Testing
+  - Console
+    - Bugs
+    - Printing 
+    
+5. Exercises
+   CMU Graphics Exercises 2.1.3
     
 **HOMEWORK:**
 CMU Graphics Exercises 2.1.3 and Functions Basics Lab <br><br>
