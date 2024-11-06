@@ -32,18 +32,18 @@ How can I use functions to organize and simplify my code? How can I test my func
     ```python
     # Import the CMU Graphics Package:
     from cmu_graphics import *
-
+    
     Circle(50, 200, 30, fill='blue', border='black')
     Label('Hello!', 50, 200, fill='white', size=15)
     
     Circle(100, 200, 30, fill='blue', border='black')
     Label('Hello!', 100, 200, fill='white', size=15)
     
-    Circle(100, 200, 30, fill='blue', border='black')
-    Label('Hello!', 100, 200, fill='white', size=15)
-
     Circle(150, 200, 30, fill='blue', border='black')
     Label('Hello!', 150, 200, fill='white', size=15)
+    
+    Circle(200, 200, 30, fill='blue', border='black')
+    Label('Hello!', 200, 200, fill='white', size=15)
     
     # Run program:
     cmu_graphics.run()
