@@ -22,7 +22,7 @@ How can I use functions to organize and simplify my code? How can I test my func
       <b>DO NOW:</b><br>
       1. Open a new file in your IDLE, named Function_Basics.py <br>
       2. Copy and paste in the starter code from the agenda. <br>
-      3. Run the code, and make an observation the difference between the shapes on the screen <br><br>
+      3. Run the code, and make an observation about the similarities and differences between the circles on the screen <br><br>
 </td>
 </tr>
 </table>
