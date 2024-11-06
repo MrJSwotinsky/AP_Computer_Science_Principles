@@ -60,8 +60,11 @@ How can I use functions to organize and simplify my code? How can I test my func
 5. Exercises
    CMU Graphics Exercises 2.1.3
     
-**HOMEWORK:**
-CMU Graphics Exercises 2.1.3 and Functions Basics Lab <br><br>
+**HOMEWORK:**<br>
+[Unit 3 Assignment 01: CMU Graphics Exercises](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/01_Due_Nov_7_CMU_Graphics_Exercises_2.1.3.md)<br>
+[Unit 3 Assignment 02: Functions Basics Lab](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/02_Due_Nov_7_Lab_1_Function_Basics.md)<br>
+
+
 
 |Primary Resources|
 |---|
