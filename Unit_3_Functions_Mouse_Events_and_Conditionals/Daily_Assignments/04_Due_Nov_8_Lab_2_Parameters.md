@@ -27,8 +27,8 @@ cmu_graphics.run()
    
 4. Write a function, called `drawThreeDonuts(centerX, centerY, donutColor, frostingColor)`, that draws three donuts: one centered at `(centerX , centerY)`, and the other two directly above and below. Hint: use mathematical operations on one of the parameters to position the top and bottom donuts.
 
-5. Write a function call to test your code. Run it to make sure it works. Your code should produce something similar to this:
-   <img src="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/Donuts.png" width="400px">
+5. Write a function call to test your code. Run it to make sure it works. Your code should produce something similar to this:<br>
+   <img src="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/Donuts.png" width="200px">
   
 6. Use comments code comments to respond to the following prompts.  Remember, code comments start with the `#` symbol and end at the end of the line.
 
