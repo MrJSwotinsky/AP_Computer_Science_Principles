@@ -1,7 +1,7 @@
 # AP Computer Science Principles
-Wednesday, November 6th 2024
+Thursday, November 7th 2024
 
-### Function Basics, Testing, and Debugging
+### Parameters (& Function Basics Review)
 
 **AIM(s):** <br>
 How can I use functions to organize and simplify my code? How can I test my functions?<br><br>
@@ -14,55 +14,60 @@ How can I use functions to organize and simplify my code? How can I test my func
 **SUCCESS CRITERIA:**
 - [ ] I know and can explain the different parts of a function definition
 - [ ] I can call my functions
-- [ ] I can print to the console to test my code
+- [ ] I can match the arguments in a function call to the parameters in a function definition
 
 <table>
   <tr>
     <td>
       <b>DO NOW:</b><br>
-      1. Open a new file in your IDLE, named Function_Basics.py <br>
-      2. Copy and paste in the starter code from the agenda. <br>
-      3. Run the code, and make an observation about the similarities and differences between the circles on the screen <br><br>
-</td>
-</tr>
+      1. Prepare your device for the lesson: <br>
+        <ul>
+          <li>Open a new file in your IDLE, named Parameters.py</li>
+          <li>Copy and paste in the starter code from the agenda. </li>
+        </ul>
+      2. Discuss with a partner and answer the following questions in your notebook about the code in this image: <br>
+      <ul>
+        <li>What is the function name?</li>
+        <li>What is one thing the function does?</li>
+        <li>On what line is the function call? </li>
+        <li>On what line/s are the function body?</li>
+        <li>What would happen if you switch the order of the arguments in the function call?</li>
+      </ul>
+      <img src="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/Function.png" width="400px">
+    </td>
+  </tr>
 </table>
 
 **AGENDA:**
-1. Do Now: Starter Code
+1. Do Now: Starter Code for the lesson
     ```python
     # Import the CMU Graphics Package:
     from cmu_graphics import *
-    
-    Circle(50, 200, 30, fill='blue', border='black')
-    Label('Hello!', 50, 200, fill='white', size=15)
-    
-    Circle(100, 200, 30, fill='blue', border='black')
-    Label('Hello!', 100, 200, fill='white', size=15)
-    
-    Circle(150, 200, 30, fill='blue', border='black')
-    Label('Hello!', 150, 200, fill='white', size=15)
-    
-    Circle(200, 200, 30, fill='blue', border='black')
-    Label('Hello!', 200, 200, fill='white', size=15)
+
+    #sky and ground
+    Rect(0, 0, 400, 300, fill='lightBlue')
+    Rect(0, 300, 400, 100, fill='ghostWhite')
+
+    # function definition
+    def drawSnowman(x):
+        # snowman body
+        Circle(x, 235, 35, fill='white')
+        Circle(x, 290, 40, fill='white')
+
+    # function call
+    drawSnowman(200)
     
     # Run program:
     cmu_graphics.run()
     ```
-3. Function Basics, Testing, and Debugging Code Along
-  - Functions
-    - Parameters
-    - Function Calls
-     - Testing
-  - Console
-    - Bugs
-    - Printing 
-    
-5. Exercises
-   CMU Graphics Exercises 2.1.3
+2. Do Now share out: Function Basics review  
+3. Parameters
+  - Functions without parameters
+  - Performing mathematical operations on parameters
     
 **HOMEWORK:**<br>
-[Unit 3 Assignment 01: CMU Graphics Exercises](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/01_Due_Nov_7_CMU_Graphics_Exercises_2.1.3.md)<br>
-[Unit 3 Assignment 02: Functions Basics Lab](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/02_Due_Nov_7_Lab_1_Function_Basics.md)<br>
+[Unit 3 Assignment 03: CMU Graphics Exercises](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/03_Due_Nov_8_CMU_Graphics_Exercises_2.1.6.md)<br>
+[Unit 3 Assignment 04: Parameters Lab](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/03_Due_Nov_8_Lab_2_Parameters.md)<br>
 
 
 
