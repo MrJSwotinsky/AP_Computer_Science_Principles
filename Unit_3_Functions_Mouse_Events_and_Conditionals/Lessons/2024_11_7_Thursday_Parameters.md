@@ -68,7 +68,7 @@ How can I use functions to organize and simplify my code? How can I perform math
     
 **HOMEWORK:**<br>
 [Unit 3 Assignment 03: CMU Graphics Exercises](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/03_Due_Nov_8_CMU_Graphics_Exercises_2.1.6.md)<br>
-[Unit 3 Assignment 04: Parameters Lab](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/03_Due_Nov_8_Lab_2_Parameters.md)<br>
+[Unit 3 Assignment 04: Parameters Lab](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/04_Due_Nov_8_Lab_2_Parameters.md)<br>
 
 
 
