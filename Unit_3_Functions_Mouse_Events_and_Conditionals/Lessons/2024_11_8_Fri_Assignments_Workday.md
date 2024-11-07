@@ -1,10 +1,10 @@
 # AP Computer Science Principles
-Thursday, November 7th 2024
+Friday, November 8th 2024
 
-### Parameters (& Function Basics Review)
+### Functions and Parameters Assignment Workday
 
 **AIM(s):** <br>
-How can I use functions to organize and simplify my code? How can I perform mathematical operations on parameters?<br><br>
+How can I practice using functions?<br><br>
 
 **OUTCOME ALIGNMENT**:<br> 
 <ins>TYS61XT.4</ins> Code using appropriate syntax.<br> 
@@ -12,67 +12,29 @@ How can I use functions to organize and simplify my code? How can I perform math
 <ins>TYS61XT.6</ins> Engage in the design thinking process to iteratively develop your work.<br> 
 
 **SUCCESS CRITERIA:**
-- [ ] I know and can explain the different parts of a function definition
-- [ ] I can call my functions
-- [ ] I can match the arguments in a function call to the parameters in a function definition
-- [ ] I can perform mathematical operations on parameters in the function body
+- [ ] I have caught up on at least two past due assignments, having practiced the following:
+  - [ ] I know and can explain the different parts of a function definition
+  - [ ] I can call a function
+  - [ ] I can match the arguments in a function call to the parameters in a function definition
+  - [ ] I can perform mathematical operations on parameters in the function body
 
 <table>
   <tr>
     <td>
       <b>DO NOW:</b><br>
-      1. Prepare your device for the lesson: <br>
-        <ul>
-          <li>Open a new file in your IDLE, named Parameters.py</li>
-          <li>Copy and paste in the starter code from the agenda. </li>
-        </ul>
-      2. Discuss with a partner and answer the following questions in your notebook about the code in this image: <br>
-      <ul>
-        <li>What is the function name?</li>
-        <li>What is one thing the function does?</li>
-        <li>On what line is the function call? </li>
-        <li>On what line/s are the function body?</li>
-        <li>What would happen if you switch the order of the arguments in the function call?</li>
-      </ul>
-      <img src="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/Function.png" width="400px">
+      1. Read the instructions for <a href="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/02_Due_Nov_7_Lab_1_Function_Basics.md">Unit 3 Assignment 02: Functions Basics Lab</a><br>
     </td>
   </tr>
 </table>
 
 **AGENDA:**
-1. Do Now: Starter Code for the lesson
-    ```python
-    # Import the CMU Graphics Package:
-    from cmu_graphics import *
-
-    #sky and ground
-    Rect(0, 0, 400, 300, fill='lightBlue')
-    Rect(0, 300, 400, 100, fill='ghostWhite')
-
-    # function definition
-    def drawSnowman(x):
-        # snowman body
-        Circle(x, 235, 35, fill='white')
-        Circle(x, 290, 40, fill='white')
-
-    # function call
-    drawSnowman(200)
-    
-    # Run program:
-    cmu_graphics.run()
-    ```
-2. Do Now share out: Function Basics review  
-3. Parameters
-  - Functions without parameters
-  - Performing mathematical operations on parameters
+1. Do Now
+2. Work on Lab 1 
+3. Work on Lab 2
+4. Work on CMU Graphics Exercises
     
 **HOMEWORK:**<br>
-[Unit 3 Assignment 01: CMU Graphics Exercises](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/01_Due_Nov_7_CMU_Graphics_Exercises_2.1.3.md)<br>
-[Unit 3 Assignment 02: Functions Basics Lab](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/02_Due_Nov_7_Lab_1_Function_Basics.md)<br>
-[Unit 3 Assignment 03: CMU Graphics Exercises](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/03_Due_Nov_8_CMU_Graphics_Exercises_2.1.6.md)<br>
-[Unit 3 Assignment 04: Parameters Lab](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/04_Due_Nov_8_Lab_2_Parameters.md)<br>
-
-
+Catch up on past due CMU Graphics exercises from last unit. If you are behind, CMU Graphics will not let you work on the exercises for this unit. There is no new assignment. By TUESDAY, you must be caught up on CMU Graphics exercises!
 
 |Primary Resources|
 |---|
