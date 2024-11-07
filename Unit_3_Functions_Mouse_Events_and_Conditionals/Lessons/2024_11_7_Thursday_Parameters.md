@@ -4,7 +4,7 @@ Thursday, November 7th 2024
 ### Parameters (& Function Basics Review)
 
 **AIM(s):** <br>
-How can I use functions to organize and simplify my code? How can I test my functions?<br><br>
+How can I use functions to organize and simplify my code? How can I perform mathematical operations on parameters?<br><br>
 
 **OUTCOME ALIGNMENT**:<br> 
 <ins>TYS61XT.4</ins> Code using appropriate syntax.<br> 
@@ -15,6 +15,7 @@ How can I use functions to organize and simplify my code? How can I test my func
 - [ ] I know and can explain the different parts of a function definition
 - [ ] I can call my functions
 - [ ] I can match the arguments in a function call to the parameters in a function definition
+- [ ] I can perform mathematical operations on parameters in the function body
 
 <table>
   <tr>
