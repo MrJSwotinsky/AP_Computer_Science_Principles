@@ -29,9 +29,9 @@ How can I practice using functions?<br><br>
 
 **AGENDA:**
 1. Do Now
-2. Work on Lab 1 
-3. Work on Lab 2
-4. Work on CMU Graphics Exercises
+2. Work on Lab 1: <a href="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/02_Due_Nov_7_Lab_1_Function_Basics.md">Unit 3 Assignment 02: Functions Basics Lab</a>
+3. Work on Lab 2: [Unit 3 Assignment 04: Parameters Lab](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/04_Due_Nov_8_Lab_2_Parameters.md)<br>
+4. Work on CMU Graphics Exercises: [Unit 3 Assignment 01: CMU Graphics Exercises](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/01_Due_Nov_7_CMU_Graphics_Exercises_2.1.3.md)<br> & [Unit 3 Assignment 03: CMU Graphics Exercises](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/03_Due_Nov_8_CMU_Graphics_Exercises_2.1.6.md)<br>
     
 **HOMEWORK:**<br>
 Catch up on past due CMU Graphics exercises from last unit. If you are behind, CMU Graphics will not let you work on the exercises for this unit. There is no new assignment. By TUESDAY, you must be caught up on CMU Graphics exercises!
