@@ -45,7 +45,7 @@ How can I prepare for AP Exam questions about functions?<br><br>
 
     
 **HOMEWORK:**<br>
-Assignment 5: AP Classroom Exercises + Reflection
+[Assignment 5: AP Classroom Exercises + Reflection](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/05_Due_Wed_Nov_13_AP_Classroom_Practice_Set_11_Procedures.md)
 
 |Primary Resources|
 |---|
