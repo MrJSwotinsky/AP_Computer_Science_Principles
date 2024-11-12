@@ -33,7 +33,7 @@ How can I prepare for AP Exam questions about functions?<br><br>
     <img src="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/AP_Vocab_2.png" size="500px">
 3. New concepts: Procedural Abstraction
   - Definition: Breaking down complex tasks into smaller, more manageable procedures or functions
-  - Benefits: ?
+  - 5 Benefits
   - Example: Creating a procedure to draw a specific object on the screen repeatedly with different parameters (like drawing multiple stars with varying sizes), allowing you to reuse this logic throughout your program without rewriting the same code multiple times.  
 4. Practice: In your notebook, answer the following: <br>
   -Question 1:
