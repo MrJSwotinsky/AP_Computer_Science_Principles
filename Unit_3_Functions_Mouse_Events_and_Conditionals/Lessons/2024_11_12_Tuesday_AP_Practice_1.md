@@ -12,7 +12,9 @@ How can I prepare for AP Exam questions about functions?<br><br>
 
 **SUCCESS CRITERIA:**
 - [ ] I can map our classroom vocabulary to the AP Exam vocabulary
-- [ ] I can answer practice AP Exam questions about functions
+- [ ] I know the benefits of procedural abstraction
+- [ ] I can describe the output of a variety of different types of procedures, including those that look different than the ones I'm writing on CMU graphics
+- [ ] I can write a general formula for a procedure 
 
 <table>
   <tr>
@@ -29,11 +31,11 @@ How can I prepare for AP Exam questions about functions?<br><br>
   - AP Test:
     <img src="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/AP_Vocab_1.png" size="500px"><br>
     <img src="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/AP_Vocab_2.png" size="500px">
-3. New concept: Procedural Abstraction
+3. New concepts: Procedural Abstraction
   - Definition: Breaking down complex tasks into smaller, more manageable procedures or functions
   - Benefits: ?
   - Example: Creating a procedure to draw a specific object on the screen repeatedly with different parameters (like drawing multiple stars with varying sizes), allowing you to reuse this logic throughout your program without rewriting the same code multiple times.  
-4. Practice: In your notebook, answer the following: 
+4. Practice: In your notebook, answer the following: <br>
   -Question 1:
  <img src="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/AP_Practice_3.png" size="700px"> <br>
   - Question 2: Let x = 5, y = 5, and r = 1. <b>Write the four lines of code which would produce the following image, in terms of x , y , and r.</b> <br>
