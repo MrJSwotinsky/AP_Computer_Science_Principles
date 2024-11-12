@@ -11,10 +11,7 @@ How can I prepare for AP Exam questions about functions?<br><br>
 <ins>TYS61XT.8</ins>Model employability skills such as personal mindset, planning for success, and collaboration. <br>
 
 **SUCCESS CRITERIA:**
-- [ ] I can map our classroom vocabulary to the AP Exam vocabulary
-- [ ] I know the benefits of procedural abstraction
-- [ ] I can describe the output of a variety of different types of procedures, including those that look different than the ones I'm writing on CMU graphics
-- [ ] I can write a general formula for a procedure 
+- [ ] I can describe the output of a variety of different types of procedures, including those that use return, display, and string manipulation
 
 <table>
   <tr>
@@ -28,19 +25,21 @@ How can I prepare for AP Exam questions about functions?<br><br>
 
 **AGENDA:**
 1. We do - Follow along in your notebook as we tackle the following questions which touch on:
-   - Return values
-   - Display
-   - Strings <br><br>
-
-Example 1: <br>
-
+   - Strings: A sequence of characters, encased in quotes. For example `'abc'` , `'123'` , `'+a*1#B'`
+   - Return values: The output of functions/procedures. A value that is sent back to the part of the code that called the function.
+   - Display: Displaying the value of an expression on the screen, making it visible to human users. <br>
+ Example 1: <br>
+ <img src="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/AP_Practice_4.png" size="700px"> <br>     
 Example 2: <br>
-
+<img src="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/AP_Practice_5.png" size="700px"> <br>   
      
-   
 3. You do - Complete the following questions in your notebook: 
-  - 
-
+   #1 <br>
+   <img src="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/AP_Practice_6.png" size="700px"> <br>
+   #2 <br>
+   <img src="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/AP_Practice_7.png" size="700px"> <br>
+   #3 <br>
+<img src="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/AP_Practice_8.png" size="700px"> <br>
 
     
 **HOMEWORK:**<br>
