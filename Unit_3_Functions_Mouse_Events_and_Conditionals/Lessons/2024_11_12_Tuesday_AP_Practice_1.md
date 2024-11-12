@@ -40,7 +40,7 @@ How can I prepare for AP Exam questions about functions?<br><br>
  <img src="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/AP_Practice_3.png" size="700px"> <br>
   - Question 2: Let x = 5, y = 5, and r = 1. <b>Write the four lines of code which would produce the following image, in terms of x , y , and r.</b> <br>
   <img src="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/AP_Pratice_1.png" size="700px"> <br>
-  - Question 3a & bb:
+  - Question 3a & 3b:
 <img src="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/AP_Practice_2.png" size="700px"> <br>
 
     
