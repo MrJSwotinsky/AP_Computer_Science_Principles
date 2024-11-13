@@ -31,7 +31,7 @@ How can I prepare for AP Exam questions about functions?<br><br>
  Example 1: <br>
  <img src="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/AP_Practice_4_Solution.png" width="700px"> <br>     
 Example 2: <br>
-<img src="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/AP_Practice_5_Solution.png" size="700px"> <br>   
+<img src="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/AP_Practice_5_Solution.jpeg" size="700px"> <br>   
      
 3. (HOMEWORK) You do - Complete the following questions in your notebook: <br>
    #1 <br>
