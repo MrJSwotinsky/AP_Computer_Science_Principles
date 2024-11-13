@@ -29,7 +29,7 @@ How can I prepare for AP Exam questions about functions?<br><br>
    - Return values: The output of functions/procedures. A value that is sent back to the part of the code that called the function.
    - Display: Displaying the value of an expression on the screen, making it visible to human users. <br>
  Example 1: <br>
- <img src="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/AP_Practice_4_Solution.png" size="700px"> <br>     
+ <img src="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/AP_Practice_4_Solution.png" width="700px"> <br>     
 Example 2: <br>
 <img src="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/AP_Practice_5_Solution.png" size="700px"> <br>   
      
