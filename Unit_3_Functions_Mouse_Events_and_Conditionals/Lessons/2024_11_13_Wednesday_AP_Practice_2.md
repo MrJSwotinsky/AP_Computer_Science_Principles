@@ -29,11 +29,11 @@ How can I prepare for AP Exam questions about functions?<br><br>
    - Return values: The output of functions/procedures. A value that is sent back to the part of the code that called the function.
    - Display: Displaying the value of an expression on the screen, making it visible to human users. <br>
  Example 1: <br>
- <img src="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/AP_Practice_4.png" size="700px"> <br>     
+ <img src="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/AP_Practice_4_Solution.png" size="700px"> <br>     
 Example 2: <br>
-<img src="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/AP_Practice_5.png" size="700px"> <br>   
+<img src="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/AP_Practice_5_Solution.png" size="700px"> <br>   
      
-3. You do - Complete the following questions in your notebook: <br>
+3. (HOMEWORK) You do - Complete the following questions in your notebook: <br>
    #1 <br>
    <img src="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/AP_Practice_6.png" size="700px"> <br>
    #2 <br>
@@ -43,7 +43,7 @@ Example 2: <br>
 
     
 **HOMEWORK:**<br>
-[Assignment 5: AP Classroom Exercises + Reflection](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/05_Due_Wed_Nov_13_AP_Classroom_Practice_Set_11_Procedures.md)
+Do the last 3 practice in the agenda. Upload them to GitHub as a picture or PDF titled `LastNameFirstInitial_AP_Practice_1`. Make sure to draw out and show your thinking, modeling the two questions we did together as a class. This practice is called `Code Tracing`. 
 
 |Primary Resources|
 |---|
