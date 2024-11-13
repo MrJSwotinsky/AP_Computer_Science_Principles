@@ -33,13 +33,13 @@ How can I prepare for AP Exam questions about functions?<br><br>
 Example 2: <br>
 <img src="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/AP_Practice_5.png" size="700px"> <br>   
      
-3. You do - Complete the following questions in your notebook: 
+3. You do - Complete the following questions in your notebook: <br>
    #1 <br>
    <img src="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/AP_Practice_6.png" size="700px"> <br>
    #2 <br>
-   <img src="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/AP_Practice_7.png" size="700px"> <br>
+   <img src="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/AP_Practice_8.png" size="700px"> <br>
    #3 <br>
-<img src="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/AP_Practice_8.png" size="700px"> <br>
+<img src="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/AP_Practice_7.png" size="700px"> <br>
 
     
 **HOMEWORK:**<br>
