@@ -9,5 +9,9 @@ How can I demonstrate my knowledge on Procedures on the checkpoint?<br><br>
 **DO NOW:** <br>
 - Log into AP Classroom and begin the Procedures Checkpoint
 
+**AGENDA:** <br>
+1. Checkpoint
+2. When you're finished, catch up on CMU Graphics exercises.
+
 **HOMEWORK:** <br>
 [Assignment 06: Checkpoint Reflection](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/06_Due_Nov_15_U3C1_Reflection.md)
