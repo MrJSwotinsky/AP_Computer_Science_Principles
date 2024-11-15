@@ -22,6 +22,5 @@ cmu_graphics.run()
 
 * In your own words describe what a mouse event is.
 * How is a mouse event different from a function?
-* What happens if you name the mouse event parameters something other than x and y? (Try it and find out--remember that if you change the parameter names you should also change them in the function body)
 * Do the mouse events work if you change the function names? For example, changing `onMousePress()` to `onMouseClick()`? (Try it and find out)
    
