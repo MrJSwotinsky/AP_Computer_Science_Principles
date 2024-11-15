@@ -4,7 +4,7 @@ Friday, November 15th 2024
 ### Mouse Events
 
 **AIM(s):** <br>
-How can I incorporate Mouse inputs into my program?<br><br>
+How can I incorporate Mouse inputs into my program?<br>
 
 **OUTCOME ALIGNMENT**:<br> 
 <ins>TYS61XT.4</ins> Code using appropriate syntax.<br> 
