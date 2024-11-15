@@ -1,10 +1,10 @@
 # AP Computer Science Principles
-Tuesday, November 12th 2024
+Friday, November 15th 2024
 
-### AP Exam Practice #1
+### Mouse Events
 
 **AIM(s):** <br>
-How can I prepare for AP Exam questions about functions?<br><br>
+How can I incorporate Mouse inputs into my program?<br><br>
 
 **OUTCOME ALIGNMENT**:<br> 
 <ins>TYS61XT.5</ins> Communicate effectively as a Computer Scientist.<br> 
@@ -12,22 +12,39 @@ How can I prepare for AP Exam questions about functions?<br><br>
 
 **SUCCESS CRITERIA:**
 - [ ] I can describe how to use the different CMU Mouse Events
+- [ ] I can describe the difference between a function and an event
 
 <table>
   <tr>
     <td>
-      <b>DO NOW:</b><br>
-      In your notebook, answer ONE of the following questions that we did not get to yesterday. For a challenge, try both: <br>
-      <img src="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/AP_Practice_2.png" size="600px"> <br>
+      <b>DO NOW:</b><br><br>
+      1. Make a new file in your IDLE called Mouse_Events.py and paste in the starter code from the agenda.<br><br> 
+      2. In your notebook, describe, in terms of x and y, what are the inputs and outputs of the two functions in the starter code? In other words, what information does each function need in order to execute the function body, and what does it display on the screen after?
     </td>
   </tr>
 </table>
 
 **AGENDA:**
-1.
-  
+1. Do Now: Starter Code 
+    ```python
+    # Import the CMU Graphics Package:
+    from cmu_graphics import *
+    
+    def onMousePress(x,y):
+        Circle(x-10, y-10, 20, fill= 'crimson')
+    
+    def onMouseRelease(x,y):
+        Rect(x+10, y+10, 40, 40, fill= 'navy')
+    
+    # Run program:
+    cmu_graphics.run()
+    ```
+2. 4 Mouse Events
+3. What is an Event?
+4. Practice: [Lab 3]()
+   
 **HOMEWORK:**<br>
-
+Complete [Unit 3 Assignment 7: Lab 3]() for homework. 
 
 |Primary Resources|
 |---|
