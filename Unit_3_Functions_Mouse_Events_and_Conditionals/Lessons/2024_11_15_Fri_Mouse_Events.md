@@ -7,8 +7,9 @@ Friday, November 15th 2024
 How can I incorporate Mouse inputs into my program?<br><br>
 
 **OUTCOME ALIGNMENT**:<br> 
+<ins>TYS61XT.4</ins> Code using appropriate syntax.<br> 
 <ins>TYS61XT.5</ins> Communicate effectively as a Computer Scientist.<br> 
-<ins>TYS61XT.8</ins>Model employability skills such as personal mindset, planning for success, and collaboration. <br>
+<ins>TYS61XT.6</ins> Engage in the design thinking process to iteratively develop your work.<br> 
 
 **SUCCESS CRITERIA:**
 - [ ] I can describe how to use the different CMU Mouse Events
