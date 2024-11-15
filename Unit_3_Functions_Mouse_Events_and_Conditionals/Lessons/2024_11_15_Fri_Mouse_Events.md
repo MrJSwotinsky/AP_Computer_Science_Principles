@@ -20,7 +20,8 @@ How can I incorporate Mouse inputs into my program?<br>
     <td>
       <b>DO NOW:</b><br><br>
       1. Make a new file in your IDLE called Mouse_Events.py and paste in the starter code from the agenda.<br><br> 
-      2. In your notebook, describe, in terms of x and y, what are the inputs and outputs of the two functions in the starter code? In other words, what information does each function need in order to execute the function body, and what does the function body do?
+      2. In your notebook, describe, in terms of x and y, what are the inputs and outputs of the two functions in the starter code? <br><br>
+      <em>In other words, what information does each function need in order to execute the function body, and what does the function body do?</em>
     </td>
   </tr>
 </table>
