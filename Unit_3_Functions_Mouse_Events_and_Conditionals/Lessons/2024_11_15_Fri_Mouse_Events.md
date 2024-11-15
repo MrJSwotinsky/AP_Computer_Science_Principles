@@ -41,10 +41,10 @@ How can I incorporate Mouse inputs into my program?<br><br>
     ```
 2. 4 Mouse Events
 3. What is an Event?
-4. Practice: [Lab 3 - Mouse Events]()
+4. Practice: [Lab 3 - Mouse Events](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/tree/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments)
    
 **HOMEWORK:**<br>
-Complete [Unit 3 Assignment 7: Lab 3 - Mouse Events]() for homework. 
+Complete [Unit 3 Assignment 7: Lab 3 - Mouse Events](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/tree/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments) for homework. 
 
 |Primary Resources|
 |---|
