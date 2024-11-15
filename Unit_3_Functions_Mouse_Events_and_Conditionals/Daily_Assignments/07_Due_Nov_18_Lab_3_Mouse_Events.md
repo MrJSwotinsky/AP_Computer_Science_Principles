@@ -1,4 +1,4 @@
-Due: Friday, November 8 2024
+Due: Monday, November 18 2024
 
 Create a new python file in your Physical Device > AP CSP Portfolio folder titled, LastNameFirstInitial_U3_Lab2_Parameters.py, and complete the following lab:
 
@@ -8,12 +8,7 @@ Create a new python file in your Physical Device > AP CSP Portfolio folder title
 # Import the CMU Graphics package:
 from cmu_graphics import *
 
-Rect(0, 0, 400, 400, fill='honeydew')
 
-def drawDonut(centerX, centerY, donutColor, frostingColor):
-    Circle(centerX, centerY, 40, fill=donutColor)
-    Star(centerX, centerY, 35, 15, border='white', fill=frostingColor, roundness=90)
-    Circle(centerX, centerY, 10, fill='honeydew')
 
 # Run program:
 cmu_graphics.run()
@@ -21,19 +16,12 @@ cmu_graphics.run()
 
 **Use the open space between `from cmu_graphics import *` and `# Run program:` to complete the rest of this lab**
 
-2. Write a function call for the function provided in the starter code. Run it to make sure it works.
-
-3. Comment out your function call by adding a `#` at the front (do not erase it).
-   
-4. Write a function, called `drawThreeDonuts(centerX, centerY, donutColor, frostingColor)`, that draws three donuts: one centered at `(centerX , centerY)`, and the other two directly above and below. Hint: use mathematical operations on one of the parameters to position the top and bottom donuts.
-
-5. Write a function call to test your code. Run it to make sure it works. Your code should produce something similar to this:<br>
-   <img src="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/Donuts.png" width="200px">
+2. Using `onMousePress()` and `onMouseRelease()` , write a program that draws some image while the mouse button is pressed, and changes when the mouse button is released. *For example: A day time scene that turns into a night time scene, or an apple that turns into an orange* 
   
-6. Use comments code comments to respond to the following prompts.  Remember, code comments start with the `#` symbol and end at the end of the line.
+3. Use comments code comments to respond to the following prompts.  Remember, code comments start with the `#` symbol and end at the end of the line.
 
-* In your own words describe your approach to question #4.
-    * What mathematical operation did you use to position the top donut. Why?
-    * What mathematical operation did you use to position the bottom donut. Why?
-    * Did your function call work on the first try? If not, what mistake did you make? How did you fix it?
+* In your own words describe what a mouse event is.
+* How is a mouse event different from a function?
+* What happens if you name the mouse event parameters something other than x and y? (Try it and find out--remember that if you change the parameter names you should also change them in the function body)
+* Do the mouse events work if you change the function names? For example, changing `onMousePress()` to `onMouseClick()`? (Try it and find out)
    
