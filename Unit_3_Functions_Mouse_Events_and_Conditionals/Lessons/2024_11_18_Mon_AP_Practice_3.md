@@ -27,12 +27,17 @@ How can I prepare for AP Exam questions about variables and assignment?<br><br>
 **AGENDA:**
 1. Do Now
 2. Reminder: There will be a checkpoint on today's material, tomorrow.
-3. We do - Follow along on your [printed handout](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/2024_11_18_Classwork.pdf) or in your notebook as we tackle AP Exam questions on Variables. I will post the solutions for the first three problems after class.
-4. You do - Practice what we learned by completing the last 3 questions on the [printed handout](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/2024_11_18_Classwork.pdf) or in your notebook.    
+3. We do - Follow along on your [printed handout](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/2024_11_18_Classwork.pdf) or in your notebook as we tackle AP Exam questions on Variables. Here are the solutions for the first three problems:
+  <img src="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/AP_Practice_9.jpg" size="600px"> <br>
+  <img src="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/AP_Practice_10.jpg" size="600px"> <br>
+  <img src="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/AP_Practice_11.jpg" size="600px"> <br>
+5. You do - Practice what we learned by completing the last 3 questions on the [printed handout](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/2024_11_18_Classwork.pdf) or in your notebook.    
 
     
 **HOMEWORK:**<br>
-Complete and review the posted solutions to the handout in preparation for tomorrows checkpoint.<br>
+[Assignment 08](): 
+  1. Complete the last 3 questions on the handout from today. Make sure to sketch out your thinking for the last two.
+  2. Upload a picture or scan to GitHub. 
 
 |Primary Resources|
 |---|
