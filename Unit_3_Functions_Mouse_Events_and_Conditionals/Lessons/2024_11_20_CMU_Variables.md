@@ -1,10 +1,10 @@
 # AP Computer Science Principles
-Friday, November 15th 2024
+Wednesday, November 20th 2024
 
-### Mouse Events
+### Variables
 
 **AIM(s):** <br>
-How can I incorporate Mouse inputs into my program?<br>
+How can I combine variables and mouse events to change my shapes?<br>
 
 **OUTCOME ALIGNMENT**:<br> 
 <ins>TYS61XT.4</ins> Code using appropriate syntax.<br> 
@@ -12,16 +12,14 @@ How can I incorporate Mouse inputs into my program?<br>
 <ins>TYS61XT.6</ins> Engage in the design thinking process to iteratively develop your work.<br> 
 
 **SUCCESS CRITERIA:**
-- [ ] I can describe how to use the different CMU Mouse Events
-- [ ] I can describe the difference between a function and an event
+- [ ] I can save my shapes as variables
+- [ ] I can modify a variety of shape properties
 
 <table>
   <tr>
     <td>
       <b>DO NOW:</b><br><br>
-      1. Make a new file in your IDLE called Mouse_Events.py and paste in the starter code from the agenda.<br><br> 
-      2. In your notebook, describe, in terms of x and y, what are the inputs and outputs of the two functions in the starter code? <br><br>
-      <em>In other words, what information does each function need in order to execute the function body, and what does the function body do?</em>
+      1. Make a new file in your IDLE called Variables.py and paste in the starter code from the agenda.<br><br> 
     </td>
   </tr>
 </table>
@@ -32,21 +30,17 @@ How can I incorporate Mouse inputs into my program?<br>
     # Import the CMU Graphics Package:
     from cmu_graphics import *
     
-    def onMousePress(x,y):
-        Circle(x-10, y-10, 20, fill= 'crimson')
-    
-    def onMouseRelease(x,y):
-        Rect(x+10, y+10, 40, 40, fill= 'navy')
+    Circle(200, 200, 20, fill= 'crimson')
     
     # Run program:
     cmu_graphics.run()
     ```
-2. 4 Mouse Events
-3. What is an Event?
-4. Practice: [Lab 3 - Mouse Events](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/tree/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments)
+2. Variables
+3. Properties
+4. Practice: [Lab 4 - Variables](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/tree/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/)
    
 **HOMEWORK:**<br>
-Complete [Unit 3 Assignment 7: Lab 3 - Mouse Events](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/tree/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments) for homework. 
+Complete [Unit 3 Assignment 10: Lab 4 - Variables](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/tree/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/) for homework. 
 
 |Primary Resources|
 |---|
