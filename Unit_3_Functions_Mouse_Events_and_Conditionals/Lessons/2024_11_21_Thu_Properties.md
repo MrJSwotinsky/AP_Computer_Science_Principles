@@ -13,6 +13,7 @@ How can I practice changing shape properties?<br>
 
 **SUCCESS CRITERIA:**
 - [ ] I can modify a variety of shape properties using dot notation
+- [ ] I can describe how +=, -=, *=, /= operations works
 
 <table>
   <tr>
@@ -25,12 +26,12 @@ How can I practice changing shape properties?<br>
 
 **AGENDA:**
 1. Do Now
-2. += Notation
+2. Quick word on +=, -=, *=, /= Operations
 3. Lab Directions
-4. More Properties Practice: [Lab 5 - Properties]([https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/tree/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/11_Due_Nov_25_Lab_4_Properties.md)
+4. More Properties Practice: [Lab 5 - Properties]()
    
 **HOMEWORK:**<br>
-1. Complete [Unit 3 Assignment 11: Lab 4 - Properties]([https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/tree/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/11_Due_Nov_25_Lab_4_Properties.md) for homework.
+1. Finish completing [Unit 3 Assignment 12: Lab 5 - Properties]() for homework.
 2. Complete [Unit 3 Assignment 13: CMU Graphics Exercises 2.3.3]()
 
 |Primary Resources|
