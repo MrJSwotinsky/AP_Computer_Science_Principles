@@ -1,10 +1,10 @@
 # AP Computer Science Principles
-Wednesday, November 20th 2024
+Thursday, November 20th 2024
 
-### Variables
+### Properties
 
 **AIM(s):** <br>
-How can I combine variables and mouse events to change my shapes?<br>
+How can I practice changing shape properties?<br>
 
 **OUTCOME ALIGNMENT**:<br> 
 <ins>TYS61XT.4</ins> Code using appropriate syntax.<br> 
@@ -12,35 +12,26 @@ How can I combine variables and mouse events to change my shapes?<br>
 <ins>TYS61XT.6</ins> Engage in the design thinking process to iteratively develop your work.<br> 
 
 **SUCCESS CRITERIA:**
-- [ ] I can save my shapes to variables
 - [ ] I can modify a variety of shape properties using dot notation
 
 <table>
   <tr>
     <td>
       <b>DO NOW:</b><br><br>
-      1. Make a new file in your IDLE called Variables.py and paste in the starter code from the agenda.<br><br> 
+      1. Make a new file in your Lab folder on GitHub called LastNameFirstInitial_U3_Lab_5_Properties.md and look up to await further instruction.<br><br> 
     </td>
   </tr>
 </table>
 
 **AGENDA:**
-1. Do Now: Starter Code 
-    ```python
-    # Import the CMU Graphics Package:
-    from cmu_graphics import *
-    
-    Circle(200, 200, 20, fill= 'crimson')
-    
-    # Run program:
-    cmu_graphics.run()
-    ```
-2. Variables
-3. Properties: Where have we seen these before?
-4. Practice: [Lab 4 - Variables]([https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/tree/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/10_Due_Nov_21_Lab_4_Variables.md))
+1. Do Now
+2. += Notation
+3. Lab Directions
+4. More Properties Practice: [Lab 5 - Properties]([https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/tree/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/11_Due_Nov_25_Lab_4_Properties.md)
    
 **HOMEWORK:**<br>
-Complete [Unit 3 Assignment 10: Lab 4 - Variables]([https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/tree/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/10_Due_Nov_21_Lab_4_Variables.md)) for homework. 
+1. Complete [Unit 3 Assignment 11: Lab 4 - Properties]([https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/tree/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/11_Due_Nov_25_Lab_4_Properties.md) for homework.
+2. Complete [Unit 3 Assignment 13: CMU Graphics Exercises 2.3.3]()
 
 |Primary Resources|
 |---|
