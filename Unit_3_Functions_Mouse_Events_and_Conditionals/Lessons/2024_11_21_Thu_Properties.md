@@ -32,7 +32,7 @@ How can I practice changing shape properties?<br>
    
 **HOMEWORK:**<br>
 1. Finish completing [Unit 3 Assignment 12: Lab 5 - Properties]() for homework.
-2. Complete [Unit 3 Assignment 13: CMU Graphics Exercises 2.3.3]()
+2. Complete [Unit 3 Assignment 13: CMU Graphics Exercises 2.3.3](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/13_Due_Nov_25_CMU_Graphics_Exercises_2.3.3.md)
 
 |Primary Resources|
 |---|
