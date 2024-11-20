@@ -40,7 +40,8 @@ How can I combine variables and mouse events to change my shapes?<br>
 4. Practice: [Lab 4 - Variables](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/10_Due_Nov_21_Lab_4_Variables.md))
    
 **HOMEWORK:**<br>
-Complete [Unit 3 Assignment 10: Lab 4 - Variables](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/10_Due_Nov_21_Lab_4_Variables.md)) for homework. 
+1. Finish completing [Unit 3 Assignment 10: Lab 4 - Variables](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/10_Due_Nov_21_Lab_4_Variables.md) for homework.
+2. Complete [Unit 3 Assignment 11: CMU Graphics Exercises](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/11_Due_Nov_21_CMU_Graphics_Exercises_2.2.4.md)
 
 |Primary Resources|
 |---|
