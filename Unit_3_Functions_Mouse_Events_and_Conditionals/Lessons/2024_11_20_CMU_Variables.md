@@ -37,10 +37,10 @@ How can I combine variables and mouse events to change my shapes?<br>
     ```
 2. Variables
 3. Properties
-4. Practice: [Lab 4 - Variables](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/tree/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/)
+4. Practice: [Lab 4 - Variables]([https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/tree/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/10_Due_Nov_21_Lab_4_Variables.md))
    
 **HOMEWORK:**<br>
-Complete [Unit 3 Assignment 10: Lab 4 - Variables](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/tree/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/) for homework. 
+Complete [Unit 3 Assignment 10: Lab 4 - Variables]([https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/tree/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/10_Due_Nov_21_Lab_4_Variables.md)) for homework. 
 
 |Primary Resources|
 |---|
