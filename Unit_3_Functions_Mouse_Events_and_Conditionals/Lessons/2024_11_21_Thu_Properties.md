@@ -28,10 +28,10 @@ How can I practice changing shape properties?<br>
 1. Do Now
 2. Quick word on +=, -=, *=, /= Operations
 3. Lab Directions
-4. More Properties Practice: [Lab 5 - Properties]()
+4. More Properties Practice: [Lab 5 - Properties](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/12_Due_Nov_25_Lab_5_Properties.md)
    
 **HOMEWORK:**<br>
-1. Finish completing [Unit 3 Assignment 12: Lab 5 - Properties]() for homework.
+1. Finish completing [Unit 3 Assignment 12: Lab 5 - Properties](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/12_Due_Nov_25_Lab_5_Properties.md) for homework.
 2. Complete [Unit 3 Assignment 13: CMU Graphics Exercises 2.3.3](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/13_Due_Nov_25_CMU_Graphics_Exercises_2.3.3.md)
 
 |Primary Resources|
