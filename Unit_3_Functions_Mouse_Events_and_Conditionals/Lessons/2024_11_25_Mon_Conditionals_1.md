@@ -40,7 +40,7 @@ Line(200, 0, 200, 400, opacity=10)
 
 def onMousePress(mouseX, mouseY):
   if (mouseX < 200):
-      Circle(mouseX, mouseY, 10, fill='cyan')
+      Circle(mouseX, mouseY, 10, fill='skyBlue')
       Star(mouseX, mouseY, 10, 5)
 
 # Run program:
@@ -52,7 +52,7 @@ cmu_graphics.run()
 4. Mid-unit CMU Practice Exercises (2.4)
    
 **HOMEWORK:**<br>
-1. [Unit 3 Assignment 14: CMU Graphics Exercises 2.5.2](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/14_Due_Nov_26_CMU_Graphics_Exercises_2.5.2.md)
+1. [Unit 3 Assignment 14: CMU Graphics Exercises 2.4& 2.5.2](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/14_Due_Nov_26_CMU_Graphics_Exercises_2.4_2.5.2.md)
 
 |Primary Resources|
 |---|
