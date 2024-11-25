@@ -1,7 +1,7 @@
 # AP Computer Science Principles
 Monday, November 25th 2024
 
-### Conditionals
+### Conditionals: If statements
 
 **AIM(s):** <br>
 How can I use conditionals to write more complex programs?<br>
