@@ -45,9 +45,10 @@ def onMousePress(mouseX, mouseY):
 
 # Run program:
 cmu_graphics.run()
-    ```
+```
 2. If statements
-3. Conditions
+3. Conditions<br>
+   <img src="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/Conditions.png" width="300px">
 4. Mid-unit CMU Practice Exercises (2.4)
    
 **HOMEWORK:**<br>
