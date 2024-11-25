@@ -1,7 +1,7 @@
 # AP Computer Science Principles
 Tuesday, November 26th 2024
 
-### Conditionals 2
+### Conditionals 2: Multiple If's, Else
 
 **AIM(s):** <br>
 How can I use conditionals to write more complex programs?<br>
