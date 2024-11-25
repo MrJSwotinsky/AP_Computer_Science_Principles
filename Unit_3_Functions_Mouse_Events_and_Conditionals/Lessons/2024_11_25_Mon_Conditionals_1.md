@@ -1,10 +1,10 @@
 # AP Computer Science Principles
-Thursday, November 20th 2024
+Monday, November 25th 2024
 
-### Properties
+### Conditionals
 
 **AIM(s):** <br>
-How can I practice changing shape properties?<br>
+How can I use conditionals to write more complex programs?<br>
 
 **OUTCOME ALIGNMENT**:<br> 
 <ins>TYS61XT.4</ins> Code using appropriate syntax.<br> 
@@ -12,27 +12,46 @@ How can I practice changing shape properties?<br>
 <ins>TYS61XT.6</ins> Engage in the design thinking process to iteratively develop your work.<br> 
 
 **SUCCESS CRITERIA:**
-- [ ] I can modify a variety of shape properties using dot notation
-- [ ] I can describe how +=, -=, *=, /= operations works
+- [ ] I can describe the different parts of an if statement
+- [ ] I can evaluate the condition inside an if statement
+- [ ] I can write an if statement
 
 <table>
   <tr>
     <td>
       <b>DO NOW:</b><br><br>
-      1. Make a new file in your Lab folder on GitHub called LastNameFirstInitial_U3_Lab_5_Properties.md and look up to await further instruction.<br><br> 
+      1. Make a new file in your IDLE called Conditionals.py. <br>
+      2. Copy and paste in the starter code from the agenda. <br>
+      3. Run and test the code.<br> 
+      4. What does it do? Look back at the code to confirm your prediction. <br><br> 
     </td>
   </tr>
 </table>
 
 **AGENDA:**
-1. Do Now
-2. Quick word on +=, -=, *=, /= Operations
-3. Lab Directions
-4. More Properties Practice: [Lab 5 - Properties](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/12_Due_Nov_25_Lab_5_Properties.md)
+1. Do Now:
+```python
+# Import the CMU Graphics Package:
+from cmu_graphics import *
+
+Label('Using "if"', 200, 20, size=20, bold=True)
+Label('Click a few times on the left and right!', 200, 45)
+Line(200, 0, 200, 400, opacity=10)
+
+def onMousePress(mouseX, mouseY):
+  if (mouseX < 200):
+      Circle(mouseX, mouseY, 10, fill='cyan')
+      Star(mouseX, mouseY, 10, 5)
+
+# Run program:
+cmu_graphics.run()
+    ```
+2. If statements
+3. Conditions
+4. Mid-unit CMU Practice Exercises (2.4)
    
 **HOMEWORK:**<br>
-1. Finish completing [Unit 3 Assignment 12: Lab 5 - Properties](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/12_Due_Nov_25_Lab_5_Properties.md) for homework.
-2. Complete [Unit 3 Assignment 13: CMU Graphics Exercises 2.3.3](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/13_Due_Nov_25_CMU_Graphics_Exercises_2.3.3.md)
+1. [Unit 3 Assignment 14: CMU Graphics Exercises 2.5.2](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/14_Due_Nov_26_CMU_Graphics_Exercises_2.5.2.md)
 
 |Primary Resources|
 |---|
