@@ -48,9 +48,9 @@ def onMousePress(x, y):
 # Run program:
 cmu_graphics.run()
 ```
-2. Multiple If statements
-3. Else
-4. Conditionals in user-defined functions
+2. Multiple if statements
+3. else + Conditionals in user-defined functions
+4. Elif (time-permitting)
 6. CMU Practice Exercises (2.5.4)
    
 **HOMEWORK:**<br>
