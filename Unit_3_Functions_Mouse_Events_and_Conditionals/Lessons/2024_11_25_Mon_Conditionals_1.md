@@ -23,7 +23,7 @@ How can I use conditionals to write more complex programs?<br>
       1. Make a new file in your IDLE called Conditionals.py. <br>
       2. Copy and paste in the starter code from the agenda. <br>
       3. Run and test the code.<br> 
-      4. What does it do? Look back at the code to confirm your prediction. <br><br> 
+      4. Write down what it does. <br><br> 
     </td>
   </tr>
 </table>
