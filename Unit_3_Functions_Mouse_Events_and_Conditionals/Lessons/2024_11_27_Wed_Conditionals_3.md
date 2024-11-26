@@ -1,10 +1,10 @@
 # AP Computer Science Principles
-Tuesday, November 26th 2024
+Wednesday, November 27th 2024
 
-### Conditionals 2: Multiple If's, Else
+### Conditionals 3: AP Practice
 
 **AIM(s):** <br>
-How can I use conditionals to write more complex programs?<br>
+How can I prepare for the AP Exam Performance Task?<br>
 
 **OUTCOME ALIGNMENT**:<br> 
 <ins>TYS61XT.4</ins> Code using appropriate syntax.<br> 
@@ -12,49 +12,34 @@ How can I use conditionals to write more complex programs?<br>
 <ins>TYS61XT.6</ins> Engage in the design thinking process to iteratively develop your work.<br> 
 
 **SUCCESS CRITERIA:**
-- [ ] I can describe the difference between multiple ifs and if/else
-- [ ] I can use conditionals in onMousePress() AND in user-defined functions
+- [ ] I understand what the AP Exam procedure task requires
+- [ ] I can write a procedure that responds differently to different inputs
 
 <table>
   <tr>
     <td>
       <b>DO NOW:</b><br><br>
-      1. Make a new file in your IDLE called Conditionals_2.py. <br>
-      2. Copy and paste in the starter code from the agenda. <br>
-      3. DO NOT RUN THE CODE!!!! (pls) <br> 
-      4. In your notebook, <u>DRAW</u> what you think will happen when you click on each quadrant:  <br><br> 
-      <img src="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/Quadrants.png" width="200px">
+      1. Open the accessory function code from yesterday <br>
+      2. Read the corresponding graphic organizer example <br>
+      3. Start to think of an idea for your own function <br> 
     </td>
   </tr>
 </table>
 
 **AGENDA:**
-1. Do Now:
-```python
-# Import the CMU Graphics Package:
-from cmu_graphics import *
-
-#These lines create quadrants 
-Line(200, 0, 200, 400)
-Line(0, 200, 400, 200)
-
-#What happens when you click on each quadrant?
-def onMousePress(x, y):
-    if (x < 200):
-        Circle(x, y, 10, fill='skyBlue')
-    if (y < 200):
-        Star(x, y, 10, 5)
-
-# Run program:
-cmu_graphics.run()
-```
-2. Multiple if statements
-3. else + Conditionals in user-defined functions
-4. Elif (time-permitting)
-6. CMU Practice Exercises (2.5.4)
+1. Do Now <br>
+2. Activity: The goal is to write a procedure that responds differently to different inputs.<br>
+- Come up with an idea for your own function<br>
+- Plan it out using the [graphic organizer](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/Custom_Procedure_Activity.pdf)<br>
+- Write the code for it in a file titled `firstNameLastInitial_Custom_Procedure.py`<br>
+- Dont forget to test it! Call your function with different arguments (values). 
+3. Upload your file to your Assignments folder on GitHub <br>
+   
    
 **HOMEWORK:**<br>
-1. [Unit 3 Assignment 15: CMU Graphics Exercises 2.5.4](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/15_Due_Nov_26_CMU_Graphics_Exercises_2.5.4.md)
+Due Monday: <br>
+1. Finish Custom Procedure activity
+2. Catch up on CMU Graphics until 2.5.4
 
 |Primary Resources|
 |---|
