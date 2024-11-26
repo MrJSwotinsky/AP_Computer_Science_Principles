@@ -20,8 +20,9 @@ How can I prepare for the AP Exam Performance Task?<br>
     <td>
       <b>DO NOW:</b><br><br>
       1. Open the accessory function code from yesterday <br>
-      2. Read the corresponding graphic organizer example <br>
-      3. Start to think of an idea for your own function <br> 
+      2. Read the corresponding graphic organizer example on the back of the <a href="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/Custom_Procedure_Activity.pdf">handout</a> <br>
+      3. Read the second graphic organizer example on the back of the <a href="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/Custom_Procedure_Activity.pdf">handout</a> <br>
+      4. Start to think of an idea for your own function <br> 
     </td>
   </tr>
 </table>
