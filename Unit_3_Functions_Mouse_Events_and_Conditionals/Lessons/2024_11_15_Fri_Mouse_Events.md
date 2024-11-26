@@ -42,7 +42,7 @@ How can I incorporate Mouse inputs into my program?<br>
     cmu_graphics.run()
     ```
 2. 4 Mouse Events
-3. What is an Event?
+3. What is an Event? (Formal Definition)
 4. Practice: [Lab 3 - Mouse Events](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/tree/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments)
    
 **HOMEWORK:**<br>
