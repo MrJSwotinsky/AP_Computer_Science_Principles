@@ -8,4 +8,4 @@ Due: Monday, December 3, 2024
 - Write the code for the procedure you designed in a file titled `firstNameLastInitial_Custom_Procedure.py`<br>
 - Dont forget to test it! Call your function with different arguments (values). 
 2. Upload both your file and a picture of your completed graphic organizer to your Assignments folder on GitHub <br>
-3. Catch up on CMU Graphics exercises until 2.5.2
+3. Catch up on CMU Graphics exercises until 2.5.4
