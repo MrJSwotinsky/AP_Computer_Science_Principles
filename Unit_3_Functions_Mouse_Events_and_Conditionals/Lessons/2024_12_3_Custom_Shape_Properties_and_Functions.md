@@ -19,7 +19,7 @@ How can I assign custom properties to my shapes? How can I use custom functions 
   <tr>
     <td>
       <b>DO NOW:</b><br><br>
-      1. Download this python file into your AP CSP Portfolio on your device, and open it through your IDLE: <a href="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/Custom_Shape_Propeties_and_Functions.py">Custom_Shape_Propeties_and_Functions.py</a> <br> 
+      1. Download this python file into your AP CSP Portfolio on your device, and open it through your IDLE: <a href="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/Custom_Shape_Properties_and_Functions.py">Custom_Shape_Propeties_and_Functions.py</a> <br> 
     </td>
   </tr>
 </table>
