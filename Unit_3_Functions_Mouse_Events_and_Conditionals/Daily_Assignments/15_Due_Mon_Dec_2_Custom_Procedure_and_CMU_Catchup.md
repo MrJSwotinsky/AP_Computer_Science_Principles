@@ -1,5 +1,5 @@
 # Unit 3, Assignment 15: Custom Procedure & catch up on CMU Graphics Exercises
-Due: Monday, December 3, 2024
+Due: Monday, December 2, 2024
 
 1. Activity: The goal is to write a procedure that responds differently to different inputs.<br>
 - Come up with an idea for your own function<br>
