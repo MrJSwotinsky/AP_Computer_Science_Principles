@@ -4,7 +4,7 @@ Tuesday, December 2nd 2024
 ### Custom Shape Properties and Functions
 
 **AIM(s):** <br>
-How can I attach custom properties to my shapes and use properties to make my programs interactive?<br>
+How can I assign custom properties to my shapes? How can I use custom functions to make my programs interactive?<br>
 
 **OUTCOME ALIGNMENT**:<br> 
 <ins>TYS61XT.4</ins> Code using appropriate syntax.<br> 
@@ -12,36 +12,30 @@ How can I attach custom properties to my shapes and use properties to make my pr
 <ins>TYS61XT.6</ins> Engage in the design thinking process to iteratively develop your work.<br> 
 
 **SUCCESS CRITERIA:**
-- [ ] I understand what the AP Exam procedure task requires
-- [ ] I can write a procedure that responds differently to different inputs
+- [ ] I can use dot notation to make custom Shape properties
+- [ ] I can use the hits() and hitsShape() methods within a conditional
 
 <table>
   <tr>
     <td>
       <b>DO NOW:</b><br><br>
-      1. Open the accessory function code from yesterday <br>
-      2. Read the corresponding graphic organizer example on the back of the <a href="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/Custom_Procedure_Activity.pdf">handout</a> <br>
-      3. Read the second graphic organizer example on the back of the <a href="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/Custom_Procedure_Activity.pdf">handout</a> <br>
-      4. Start to think of an idea for your own function <br> 
+      1. Download this python file into your AP CSP Portfolio on your device, and open it through your IDLE: <a href="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/Custom_Shape_Propeties_and_Functions.py">Custom_Shape_Propeties_and_Functions.py</a> <br> 
     </td>
   </tr>
 </table>
 
 **AGENDA:**
 1. Do Now <br>
-2. Activity: The goal is to write a procedure that responds differently to different inputs.<br>
-- Come up with an idea for your own function<br>
-- Plan it out using the [graphic organizer](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/Custom_Procedure_Activity.pdf)<br>
-- Write the code for it in a file titled `firstNameLastInitial_Custom_Procedure.py`<br>
-- Dont forget to test it! Call your function with different arguments (values). 
-3. Upload your file to your Assignments folder on GitHub <br>
-   
+2. Code Along
+   - Custom shape properties
+   - Custom functions:
+     - hits(x,y)
+     - hitsShape(shapeName)  
    
 **HOMEWORK:**<br>
-Due Monday: <br>
-[Assignment 15: ](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/tree/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/15_Due_Mon_Dec_2_Custom_Procedure_and_CMU_Catchup.md)
-1. Finish Custom Procedure activity
-2. Catch up on CMU Graphics until 2.5.4
+Due Tomorrow: <br>
+[Assignment 17: ](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/tree/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/17_Due_Mon_Dec_4_CMU_Catchup.md)
+1. Catch up on CMU Graphics until 2.5.4
 
 |Primary Resources|
 |---|
