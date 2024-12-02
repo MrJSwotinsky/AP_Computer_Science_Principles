@@ -34,7 +34,7 @@ How can I prepare for the AP Exam Boolean questions?<br>
       
 **HOMEWORK:**<br>
 Due Tuesday: <br>
-[Assignment 16: ](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/tree/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/17_Due_Tue_Dec_3_Booleans.md)
+[Assignment 16: ](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/tree/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/16_Due_Tue_Dec_3_Booleans.md)
 Upload your handout to your Assignments folder on GitHub <br>
 
 |Primary Resources|
