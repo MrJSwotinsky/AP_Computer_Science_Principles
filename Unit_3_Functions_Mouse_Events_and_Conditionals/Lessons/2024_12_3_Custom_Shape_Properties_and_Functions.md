@@ -34,8 +34,7 @@ How can I assign custom properties to my shapes? How can I use custom functions 
    
 **HOMEWORK:**<br>
 Due Tomorrow: <br>
-[Assignment 17: ](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/tree/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/17_Due_Wed_Dec_4_CMU_Catchup.md)
-1. Catch up on CMU Graphics until 2.5.4
+[Assignment 17: ](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/tree/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/17_Due_Wed_Dec_4_CMU_Catchup.md) Catch up on CMU Graphics until 2.5.4
 
 |Primary Resources|
 |---|
