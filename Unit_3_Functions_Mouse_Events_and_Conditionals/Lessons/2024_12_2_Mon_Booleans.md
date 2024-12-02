@@ -1,47 +1,41 @@
 # AP Computer Science Principles
-Wednesday, November 27th 2024
+Monday, December 1st 2024
 
-### Conditionals 3: AP Practice
+### Booleans: AP Practice
 
 **AIM(s):** <br>
-How can I prepare for the AP Exam Performance Task?<br>
+How can I prepare for the AP Exam Boolean questions?<br>
 
-**OUTCOME ALIGNMENT**:<br> 
-<ins>TYS61XT.4</ins> Code using appropriate syntax.<br> 
+**OUTCOME ALIGNMENT**:<br>  
 <ins>TYS61XT.5</ins> Communicate effectively as a Computer Scientist.<br> 
 <ins>TYS61XT.6</ins> Engage in the design thinking process to iteratively develop your work.<br> 
 
 **SUCCESS CRITERIA:**
-- [ ] I understand what the AP Exam procedure task requires
-- [ ] I can write a procedure that responds differently to different inputs
+- [ ] I can evaluate conditions using the AND, OR, and NOT, logical operators
 
 <table>
   <tr>
     <td>
       <b>DO NOW:</b><br><br>
-      1. Open the accessory function code from yesterday <br>
-      2. Read the corresponding graphic organizer example on the back of the <a href="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/Custom_Procedure_Activity.pdf">handout</a> <br>
-      3. Read the second graphic organizer example on the back of the <a href="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/Custom_Procedure_Activity.pdf">handout</a> <br>
-      4. Start to think of an idea for your own function <br> 
+      1. Given two conditions, A and B, fill out the blank truth tables at the top of your <a href="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/Booleans.pdf">handout</a>  <br><br>
+      <ul>
+        <li><u>AND:</u> The AND operator returns True if both of the conditions are true. </li>
+        <li><u>OR:</u> The OR operator returns True if at least one of the conditions are true. </li>
+        <li><u>NOT:</u> The NOT operator inverts the Boolean value of a condition. It returns True if the original condition is False. It returns False if the original condition is True.</li>
+      </ul>
     </td>
   </tr>
 </table>
 
 **AGENDA:**
 1. Do Now <br>
-2. Activity: The goal is to write a procedure that responds differently to different inputs.<br>
-- Come up with an idea for your own function<br>
-- Plan it out using the [graphic organizer](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/Custom_Procedure_Activity.pdf)<br>
-- Write the code for it in a file titled `firstNameLastInitial_Custom_Procedure.py`<br>
-- Dont forget to test it! Call your function with different arguments (values). 
-3. Upload your file to your Assignments folder on GitHub <br>
-   
-   
+2. You practice: Complete the three practice questions on the <a href="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/Booleans.pdf">handout</a>, make sure to sketch out your thinking. 
+3. Review of handout solutions.
+      
 **HOMEWORK:**<br>
-Due Monday: <br>
-[Assignment 15: ](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/tree/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments)
-1. Finish Custom Procedure activity
-2. Catch up on CMU Graphics until 2.5.4
+Due Tuesday: <br>
+[Assignment 16: ](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/tree/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/17_Due_Tue_Dec_3_Booleans.md)
+Upload your handout to your Assignments folder on GitHub <br>
 
 |Primary Resources|
 |---|
