@@ -19,7 +19,7 @@ How can I practice using shape methods in my conditionals? <br>
   <tr>
     <td>
       <b>DO NOW:</b><br><br>
-      1. Independently read the <a href="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/18_Due_Dec_5_Lab_6_Conditionals_and_Shape_Methods.md">lab instructions.</a> Be prepared to explain the instructions. <br> 
+      1. Independently read the <a href="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/18_Due_Dec_5_Lab_6_Conditionals_and_Shape_Methods.md">lab instructions.</a> Be prepared to explain the instructions. <br> 
     </td>
   </tr>
 </table>
@@ -30,7 +30,7 @@ How can I practice using shape methods in my conditionals? <br>
    
 **HOMEWORK:**<br>
 Due Tomorrow: <br>
-[Assignment 18: Lab 6](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/tree/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/17_Due_Wed_Dec_4_CMU_Catchup.md])
+[Assignment 18: Lab 6](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/18_Due_Dec_5_Lab_6_Conditionals_and_Shape_Methods.md)
 
 
 |Primary Resources|
