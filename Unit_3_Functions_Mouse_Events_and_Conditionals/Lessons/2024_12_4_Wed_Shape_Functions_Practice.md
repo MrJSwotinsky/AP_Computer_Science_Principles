@@ -1,10 +1,10 @@
 # AP Computer Science Principles
 Tuesday, December 2nd 2024
 
-### Custom Shape Properties and Functions
+### Shape Functions Practice
 
 **AIM(s):** <br>
-How can I assign custom properties to my shapes? How can I use custom functions to make my programs interactive?<br>
+How can I practice using shape methods in my conditionals? <br>
 
 **OUTCOME ALIGNMENT**:<br> 
 <ins>TYS61XT.4</ins> Code using appropriate syntax.<br> 
@@ -12,29 +12,26 @@ How can I assign custom properties to my shapes? How can I use custom functions 
 <ins>TYS61XT.6</ins> Engage in the design thinking process to iteratively develop your work.<br> 
 
 **SUCCESS CRITERIA:**
-- [ ] I can use dot notation to make custom Shape properties
-- [ ] I can use the hits() and hitsShape() methods within a conditional
+- [ ] I can use dot notation to change Shape properties
+- [ ] I can use the hits(x,y) method within a conditional
 
 <table>
   <tr>
     <td>
       <b>DO NOW:</b><br><br>
-      1. Download this python file into your AP CSP Portfolio on your device, and open it through your IDLE: <a href="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/Custom_Shape_Properties_and_Functions.py">Custom_Shape_Propeties_and_Functions.py</a> <br> 
+      1. Independently read the <a href="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/18_Due_Dec_5_Lab_6_Conditionals_and_Shape_Methods.md">lab instructions.</a> Be prepared to explain the instructions. <br> 
     </td>
   </tr>
 </table>
 
 **AGENDA:**
 1. Do Now <br>
-2. Code Along
-   - Custom shape properties
-   - Custom functions:
-     - hits(x,y)
-     - hitsShape(shapeName)  
+2. Lab
    
 **HOMEWORK:**<br>
 Due Tomorrow: <br>
-[Assignment 17: ](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/tree/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/17_Due_Wed_Dec_4_CMU_Catchup.md) Catch up on CMU Graphics until 2.5.4
+[Assignment 18: Lab 6](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/tree/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Daily_Assignments/17_Due_Wed_Dec_4_CMU_Catchup.md])
+
 
 |Primary Resources|
 |---|
