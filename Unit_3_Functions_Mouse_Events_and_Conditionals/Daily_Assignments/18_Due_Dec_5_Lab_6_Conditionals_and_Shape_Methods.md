@@ -7,7 +7,7 @@ Your task is to complete this program, which changes the color of the leaves and
 
 Hints: <br>
 - You should use the hits(x,y) method
-- You need 4 if/else statements
+- You need 4 conditionals statements
 
 Challenge: <br>
 - Make it so that the Fall and Winter trees have no leaves, only ground.
