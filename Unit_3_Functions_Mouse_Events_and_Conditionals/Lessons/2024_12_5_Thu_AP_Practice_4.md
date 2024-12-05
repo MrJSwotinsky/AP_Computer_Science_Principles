@@ -26,7 +26,7 @@ How can I prepare for AP Exam questions about Booleans and Conditionals?<br><br>
         <li>In example B, will the yellow line execute when the condition is true, false, or both?</li>
         <li>In example B, will the pink line execute when the condition is true, false, or both?</li>
       </ol>
-      <img src="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/2024_12_5_Do_Now.png" size="300px"> <br>
+      <img src="https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Resources/2024_12_5_Do_Now.jpeg" size="300px"> <br>
     </td>
   </tr>
 </table>
