@@ -7,7 +7,7 @@ Due: Friday, December 13th 2024
 Upload the following items to a new folder in your GitHub AP CSP Portfolio titled, `Interactive_Image_Project`:<br><br>
 * An initial description or well-labeled sketch of your emoji (Your sketch should include notes to highlight which elements are interactive).
 * The code required to produce your interactive image (including appropriate comments and a robust, well-documented version history).
-* Two 60 second video of your interactive image in action (one to show mid-way progress, and a final version).
+* Two 60 second video of your interactive image in action (one to show halfway progress, and a final version).
 * A written reflection
 
 ## Requirements:
