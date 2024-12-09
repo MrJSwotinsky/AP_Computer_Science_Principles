@@ -15,36 +15,32 @@ Upload the following items to a new folder in your GitHub AP CSP Portfolio title
 * Your interactive image must represent you.  It is up to you to determine how your interactive image represents you.  Be Creative!
 
 * Your interactive image must include **all** of the following features:
-    * Rectangle
-    * Circle
-    * Oval
-    * Star
-    * Line
-    * Polygon
-    * Label
-
-* Your emoji must contain **all** of the following fills:
-    * A color represented by name.
-    * A color represented by RGB triplet.
-    * A gradient
-
-* Your emoji must demonstrate ability to pass arguments to **all** of the following parameters:
-    * border (applies to any shape)
-    * borderWidth (applies to any shape)
-    * rotateAngle (applies to any shape)
-    * radius (applies to circles and stars)
-    * points (applies to stars)
-    * roundness (applies to stars)
-    * lineWidth (applies to lines)
-    * font (applies to labels)
-    * size (applies to labels)
-    * bold or italic (applies to labels)
-    * font (applies to labels)
+    * When the mouse is clicked, a mini-image appears where the mouse was clicked.
+       * The mini-image should be composed of several shape objects, not a single shape object.
+       * The mini-image should be different depending on where the mouse is clicked.
+    * When the mouse is released, something happens.
+    * Each of the following can be accomplished by clicking the mouse somewhere on your image:
+       * The color of an object changes.
+       * The size of an object changes.
+       * The value of an object changes.
+       * At least **two** additional properties can be changed by clicking the mouse.
+    * When the mouse is moved something happens **OR** when the mouse is dragged something happens.
+   
+* Your interactive image must include **all** of the following code structures:
+    * Events
+       * OnMousePress()
+       * OnMouseRelease()
+       * OnMouseDrag() OR OnMouseMove() 
+    * At least one function definition, containing at least one parameter.
+    * At least one function call.
+       * Passing different arguments to the function's parameter must result in the execution of different code segments.
+    * Variables
+    * Conditionals     
  
 * Your written reflection must address **all** of the following prompts:
-    * Describe this project and its purpose.  In other words, what were you required to do? Why did you choose to create the specific emoji you created, and in what ways does it represent you?
+    * Describe this project and its purpose.  In other words, what were you required to do? Why did you choose to create the specific interactive image you created, and in what ways does it represent you?
     * In what ways did this project contribute to your overall learning experience as a Computer Science major at IEC? In other words, what specific skills did you learn? What challenges did you encounter? In what ways did you grow as a Computer Science major?
-    * How did you iteratively develop your emoji over time? In other words, What was your initial idea, and how did it change as you worked through this project? What challenges did you run into and how did you troubleshoot them? What feedback did you receive, and how did you use it to modify your work?  This is also a good opportunity to provide a **brief** narrative that walks through the version history of your work.
+    * How did you iteratively develop your interactive image over time? In other words, What was your initial idea, and how did it change as you worked through this project? What challenges did you run into and how did you troubleshoot them? What feedback did you receive, and how did you use it to modify your work?  This is also a good opportunity to provide a **brief** narrative that walks through the version history of your work.
     * Looking back, what might you have done differently? In other words, what would you change about either your emoji itself or your process?
     * If you were to further develop this project, what would your next steps be? In other words, if given more time to work on this project, what would you do next? Is there something you do not yet know how to do, that you would like to learn in order to further develop this project?
  
