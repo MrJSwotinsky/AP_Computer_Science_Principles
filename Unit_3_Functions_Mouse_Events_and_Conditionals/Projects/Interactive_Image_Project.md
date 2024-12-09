@@ -4,17 +4,17 @@ Due: Friday, December 13th 2024
 **TASK:** Use CMU Graphics to code a personalized interactive image that represents you!
 
 ## To be submitted:
-Upload the following items to a new folder in your GitHub AP CSP Portfolio titled, `Emoji_Project`:<br><br>
-* An initial description or sketch of your emoji.
-* The code required to produce your emoji (including appropriate comments and a robust, well-documented version history).
-* An image of your emoji (including a robust, well-documented version history).
+Upload the following items to a new folder in your GitHub AP CSP Portfolio titled, `Interactive_Image_Project`:<br><br>
+* An initial description or well-labeled sketch of your emoji (Your sketch should include notes to highlight which elements are interactive).
+* The code required to produce your interactive image (including appropriate comments and a robust, well-documented version history).
+* An 60 second video of your interactive image (including a robust, well-documented version history).
 * A written reflection
 
 ## Requirements:
 
-* Your emoji must represent you.  It is up to you to determine how your emoji represents you.  Be Creative!
+* Your interactive image must represent you.  It is up to you to determine how your interactive image represents you.  Be Creative!
 
-* Your emoji must include **all** of the following shapes:
+* Your interactive image must include **all** of the following features:
     * Rectangle
     * Circle
     * Oval
