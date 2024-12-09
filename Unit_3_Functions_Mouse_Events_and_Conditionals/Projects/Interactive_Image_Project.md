@@ -14,10 +14,21 @@ Upload the following items to a new folder in your GitHub AP CSP Portfolio title
 
 * Your interactive image must represent you.  It is up to you to determine how your interactive image represents you.  Be Creative!
 
-* Your interactive image must include **all** of the following features:
+* Summary: Your interactive image must include **all** of the following code structures:
+    * Events
+       * OnMousePress()
+       * OnMouseRelease()
+       * OnMouseDrag() OR OnMouseMove() 
+    * At least one function definition, containing at least one parameter.
+    * At least one function call (it should be inside a mouse event).
+       * Passing different arguments to the function's parameter must result in the execution of different code segments.
+    * Variables
+    * Conditionals     
+
+* Specifics: Your interactive image must include **all** of the following features:
     * When the mouse is clicked, a mini-image appears where the mouse was clicked.
-       * The mini-image should be composed of several shape objects, not a single shape object.
-       * The mini-image should be different depending on where the mouse is clicked.
+       * The mini-image should be composed of several shape objects, not just a single shape object.
+       * The mini-image should be visually different depending on where the mouse is clicked.
     * When the mouse is released, something happens.
     * Each of the following can be accomplished by clicking the mouse somewhere on your image:
        * The color of an object changes.
@@ -26,16 +37,7 @@ Upload the following items to a new folder in your GitHub AP CSP Portfolio title
        * At least **two** additional properties can be changed by clicking the mouse.
     * When the mouse is moved something happens **OR** when the mouse is dragged something happens.
    
-* Your interactive image must include **all** of the following code structures:
-    * Events
-       * OnMousePress()
-       * OnMouseRelease()
-       * OnMouseDrag() OR OnMouseMove() 
-    * At least one function definition, containing at least one parameter.
-    * At least one function call.
-       * Passing different arguments to the function's parameter must result in the execution of different code segments.
-    * Variables
-    * Conditionals     
+
  
 * Your written reflection must address **all** of the following prompts:
     * Describe this project and its purpose.  In other words, what were you required to do? Why did you choose to create the specific interactive image you created, and in what ways does it represent you?
