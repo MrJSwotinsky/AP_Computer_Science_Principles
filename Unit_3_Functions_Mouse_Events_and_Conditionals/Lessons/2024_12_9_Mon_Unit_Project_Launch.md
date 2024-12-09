@@ -19,9 +19,7 @@ How can we apply what we have learned about Mouse Events and Conditionals in CMU
   <tr>
     <td>
       <b>DO NOW:</b><br>
-      1. <a href='https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Projects/Interactive_Image_Project.md'>Click here to review the Interactive Image Project you will begin working on today</a>. <br><br>
-      2. In your notes, write down at least three things you notice about the Interactive Image Project.<br><br>
-      3. In your notes, write down at least one question you have about the Interactive Image Project.
+      This week we are starting working on our unit project. <br><br>In your notebook, make a quick list of <u>topics that we have learned SINCE we finished the emoji project</u>, that this unit project might assess. 
 </td>
 </tr>
 </table>
@@ -29,8 +27,11 @@ How can we apply what we have learned about Mouse Events and Conditionals in CMU
 **AGENDA:**
 
 1. Do Now Shareout
-2. Project Launch  
-3. Project Work Time
+2. Project Launch
+3. Silent Minute:
+   - <a href='https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Projects/Interactive_Image_Project.md'>Click here to review the Interactive Image Project you will begin working on today</a>. <br><br>
+   - In your notes, write down at least one question you have about the Interactive Image Project. 
+5. Project Work Time
    
 **HOMEWORK:** <br><br>
 [Interactive Image Project - Due: Friday, December 13th 2024](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Projects/Interactive_Image_Project.md)<br><br>
