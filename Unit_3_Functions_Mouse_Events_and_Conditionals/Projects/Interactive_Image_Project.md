@@ -19,8 +19,8 @@ Upload the following items to a new folder in your GitHub AP CSP Portfolio title
        * OnMousePress()
        * OnMouseRelease()
        * OnMouseDrag() OR OnMouseMove() 
-    * At least one function definition, containing at least one parameter.
-    * At least one function call (it should be inside a mouse event).
+    * At least one completely user defined function, containing at least one parameter.
+    * At least one function call (it should be called inside a mouse event).
        * Passing different arguments to the function's parameter must result in the execution of different code segments.
     * Variables
     * Conditionals     
