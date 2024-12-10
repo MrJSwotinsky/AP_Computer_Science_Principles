@@ -1,10 +1,10 @@
 # AP Computer Science Principles
-Tuesday, December 10th 2024
+Wednesday, December 11th 2024
 
-### Interactive Image Project Workday #1
+### Interactive Image Project Workday #2
 
 **AIM(s):** <br>
-How can we progress towards a first draft of our Interactive Image Project?
+How can we finalize a first draft of our Interactive Image Project?
 
 **OUTCOME ALIGNMENT**:<br> 
 <ins>TYS61XT.3</ins> Code using appropriate programming logic.<br> 
@@ -13,18 +13,19 @@ How can we progress towards a first draft of our Interactive Image Project?
 <ins>TYS61XT.6</ins> Engage in the design thinking process to iteratively develop your work.<br> 
 
 **SUCCESS CRITERIA:**
-- [ ] I have started coding my interactive image project.
+- [ ] I have finished the first draft of my interactive image project.
 
 <table>
   <tr>
     <td>
       <b>DO NOW:</b><br>
-      1. In this <a href='https://padlet.com/knr290/12-10-24-do-now-xnetveh61af0vb3u'>link </a>, write and post your idea for your interactive image project. Title your post with your name. Your description should include: <br>
-      - What the image looks like<br>
-      - HOW the user will interact with it<br>
-      - and WHAT will change as a result.<br>
-      2. Once you see your classmates responses coming in, write a comment on at least ONE other post. <br> 
-      
+      Read this reminder of ALL the things your project should accomplish: <br><br>
+      1. When you click something/somewhere, something should APPEAR<br>
+      2. When you release somewhere, something should happen/change<br>
+      3. When you move OR drag the mouse, something should happen/change<br>
+      <br>
+      Technically speaking, the way that you accomplish this is with mouse events, a user defined function, a function call, variables, conditionals, etc. 
+          
 </td>
 </tr>
 </table>
@@ -33,8 +34,7 @@ How can we progress towards a first draft of our Interactive Image Project?
 
 1. Do Now
 2. Your resources: GitHub, CMU Graphics, the people around you, your teachers. 
-3. Quick word about Debugging Buddies
-4. Work time: First draft of <a href='https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Projects/Interactive_Image_Project.md'>your project</a>
+3. Work time: First draft of <a href='https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Projects/Interactive_Image_Project.md'>your project</a>
   - Remember to COMMIT often!
 5. Self-evaluation checklist
  
@@ -42,7 +42,7 @@ How can we progress towards a first draft of our Interactive Image Project?
 **HOMEWORK:** <br><br>
 [Interactive Image Project - Due: Friday, December 13th 2024](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Projects/Interactive_Image_Project.md)<br><br>
 **By the end of tonight, you should have made the following progress:**<br>
-* Working on your first draft of your project
+* Completed your first draft of your project
 * At least 4 commits made to your project code file
 
 |Primary Resources|
