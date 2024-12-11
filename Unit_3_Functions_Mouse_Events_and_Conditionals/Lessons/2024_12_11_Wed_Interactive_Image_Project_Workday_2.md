@@ -19,10 +19,11 @@ How can we finalize a first draft of our Interactive Image Project?
   <tr>
     <td>
       <b>DO NOW:</b><br>
-      Read this reminder of ALL the things your project should accomplish: <br><br>
-      1. When you click something/somewhere, something should APPEAR<br>
-      2. When you release somewhere, something should happen/change<br>
-      3. When you move OR drag the mouse, something should happen/change<br>
+      1. OPEN YOUR INTERACTIVE IMAGE FOLDER ON GITHUB IN ANOTHER TAB AND LEAVE IT OPEN. <br>
+      2. Read this reminder of ALL the things your project should accomplish: <br><br>
+      - When you click something/somewhere, something should APPEAR<br>
+      - When you release somewhere, something should happen/change<br>
+      - When you move OR drag the mouse, something should happen/change<br>
       <br>
       Technically speaking, the way that you accomplish this is with mouse events, a user defined function, a function call, variables, conditionals, etc. 
           
