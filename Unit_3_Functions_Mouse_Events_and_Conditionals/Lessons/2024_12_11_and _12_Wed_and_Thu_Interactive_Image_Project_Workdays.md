@@ -1,7 +1,7 @@
 # AP Computer Science Principles
 Wednesday, December 11th 2024
 
-### Interactive Image Project Workday #2
+### Interactive Image Project Workdays #2 & #3
 
 **AIM(s):** <br>
 How can we finalize a first draft of our Interactive Image Project?
