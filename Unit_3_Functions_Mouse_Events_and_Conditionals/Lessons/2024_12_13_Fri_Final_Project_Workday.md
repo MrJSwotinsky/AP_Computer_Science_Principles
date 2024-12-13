@@ -1,10 +1,10 @@
 # AP Computer Science Principles
-Wednesday, December 11th 2024
+Friday, December 13th 2024
 
-### Interactive Image Project Workdays #2 & #3
+### Interactive Image Project Workdays #4
 
 **AIM(s):** <br>
-How can we finalize a first draft of our Interactive Image Project?
+How can we finalize our Interactive Image Project?
 
 **OUTCOME ALIGNMENT**:<br> 
 <ins>TYS61XT.3</ins> Code using appropriate programming logic.<br> 
@@ -13,7 +13,7 @@ How can we finalize a first draft of our Interactive Image Project?
 <ins>TYS61XT.6</ins> Engage in the design thinking process to iteratively develop your work.<br> 
 
 **SUCCESS CRITERIA:**
-- [ ] I have finished the first draft of my interactive image project.
+- [ ] I have started a final draft of my interactive image project.
 
 <table>
   <tr>
@@ -35,16 +35,14 @@ How can we finalize a first draft of our Interactive Image Project?
 
 1. Do Now
 2. Your resources: GitHub, CMU Graphics, the people around you, your teachers. 
-3. Work time: First draft of <a href='https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Projects/Interactive_Image_Project.md'>your project</a>
+3. Work time: href='https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Projects/Interactive_Image_Project.md'>Interactive Image Project</a>
   - Remember to COMMIT often!
 5. Self-evaluation checklist
  
    
 **HOMEWORK:** <br><br>
 [Interactive Image Project - Due: Friday, December 13th 2024](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Projects/Interactive_Image_Project.md)<br><br>
-**By the end of tonight, you should have made the following progress:**<br>
-* Completed your first draft of your project
-* At least 4 commits made to your project code file
+
 
 |Primary Resources|
 |---|
