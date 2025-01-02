@@ -41,6 +41,9 @@ How can we leverage groups to manage the complexity of our programs?
    
 **HOMEWORK:** <br>
 
+[Unit 5 - Assignment 1 (Lab 1 - Intro to Groups)](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles/blob/main/Unit_5_Groups_Lists_and_Loops/Assignments/01_Due_Fri_Jan_3_Lab_1_Intro_to_Groups.md)
+
+
 ## Resources
 
 **Definition:** <br><br>
