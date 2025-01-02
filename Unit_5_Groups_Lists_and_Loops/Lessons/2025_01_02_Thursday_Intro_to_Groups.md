@@ -34,15 +34,32 @@ How can we leverage groups to manage the complexity of our programs?
   * Incorporate conditionals.
   * Incorporate buttons.
 3. Summary/Close (Think-Pair-Share):
-  * In the simplest terms possible, what is a group?
-  * Give some examples of group properties we can modify and explain how each will affect each shape in the group.
-  * How can we leverage groups to manage the complexity of our programs?
-
+     * In the simplest terms possible, what is a group?
+     * Give some examples of group properties we can modify and explain how each will affect each shape in the group.
+     * How can we leverage groups to manage the complexity of our programs?
 
    
-**HOMEWORK:**<br>
+**HOMEWORK:** <br>
 
 ## Resources
 
-|Code|Description|
-|---|---|
+A **group** is a collection of shapes which are treated as a single shape.
+
+<table>
+   <tr>
+      <td>
+         <b>Code</b>
+      </td>
+      <td>
+         <b>Description</b>
+      </td>
+   </tr>
+   <tr>
+      <td>
+         <pre>group_name = Group(<br>    shape_1,<br>    shape_2,<br>    shape_3,<br>    etc...<br>)</pre>
+      </td>
+      <td>
+         Creates a group named <code>group_name</code> containing <code>shape_1</code>, <code>shape_3</code>, <code>shape_3</code>, etc.
+      </td>
+   </tr>
+</table>
