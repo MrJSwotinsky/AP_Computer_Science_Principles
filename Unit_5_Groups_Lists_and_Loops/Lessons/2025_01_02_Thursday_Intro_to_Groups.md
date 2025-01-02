@@ -59,7 +59,7 @@ A **group** is a collection of shapes which are treated as a single shape.
          <pre>group_name = Group(<br>    shape_1,<br>    shape_2,<br>    shape_3,<br>    etc...<br>)</pre>
       </td>
       <td>
-         Creates a group named <code>group_name</code> containing <code>shape_1</code>, <code>shape_3</code>, <code>shape_3</code>, etc.
+         Creates a group named <code>group_name</code> containing <code>shape_1</code>, <code>shape_3</code>, <code>shape_3</code>, etc.<br><br>Example/The following code creates the group of shapes that make up the smiley face below.<br><pre>smiley_face = Group(<br>    Circle(200, 200, 100, fill = 'yellow'),<br>    Circle(165, 165, 10, fill = 'black'),<br>    Circle(235, 165, 10, fill = 'black'),<br>    Circle(200, 225, 50, fill = 'black'),<br>    Rect(150, 175, 100, 50, fill = 'yellow')<br>)</pre> 
       </td>
    </tr>
 </table>
