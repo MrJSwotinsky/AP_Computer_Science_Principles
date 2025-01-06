@@ -1,5 +1,5 @@
 # Unit 5, Assignment 1: Lab 1 - Intro to Groups
-Due: Tuesday, October 22nd 2024
+Due: Friday, January 3th 2025
 
 Create a new file titled `LastNameFirstInitial_Unit5_Lab1_Intro_to_Groups.py` and copy/paste the following starter code:
 
