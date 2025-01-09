@@ -25,39 +25,41 @@ Upload the following items to a new folder in your GitHub AP CSP Portfolio title
 
 ## Requirements:
 
-* Your interactive image must represent you.  It is up to you to determine how your interactive image represents you.  Be Creative!
+* Your interactive image must represent you.  It is up to you to determine how your program represents you.  Be Creative!
 
-* Summary: Your interactive image must include **all** of the following code structures:
-    * Events
-       * OnMousePress()
-       * OnMouseRelease()
-       * OnMouseDrag() OR OnMouseMove() 
-    * At least one completely user defined function, containing at least one parameter.
-    * At least one function call (it should be called inside a mouse event).
-       * Passing different arguments to the function's parameter must result in the execution of different code segments.
-    * Variables
-    * Conditionals     
-
-* Specifics: Your interactive image must include **all** of the following features:
-    * When the mouse is clicked, a mini-image appears where the mouse was clicked.
-       * The mini-image should be composed of several shape objects, not just a single shape object.
-       * The mini-image should be visually different depending on where the mouse is clicked.
-    * When the mouse is released, something happens.
-    * Each of the following can be accomplished by clicking the mouse somewhere on your image:
-       * The color of an object changes.
-       * The size of an object changes.
-       * The value of an object changes.
-       * At least **two** additional properties can be changed by clicking the mouse.
-    * When the mouse is moved something happens **OR** when the mouse is dragged something happens.
-   
-
- 
+* Your must include **all** of the following code structures:
+    * Input (e.g. the user clicks the mouses, releases the mouse, or presses a key)
+    * Output (e.g. your program displays something to the user)
+    * A Group **Note: Your group must manage the complexity of your program**
+    * A Function
+       * Your function must be 100% student defined. (*i.e you must define the name, parameters, and body on your own.  Events such as onMousePress, onMouseRelease, etc. do not meet the requirement for student defined functions.*)
+       * Your function must include at least one parameter.  
+       * Your function must be called at least once in your program.
+       * Your function must include sequencing (*i.e. lines of code written in order*)
+       * Your function must include selection (*i.e. conditionals, a.k.a. if statements*)
+       * Your function must include iteration (*i.e. loops*)
+       * The parameter passed to your function must result in different lines of code being executed.
+      
 * Your written reflection must address **all** of the following prompts:
     * Describe this project and its purpose.  In other words, what were you required to do? Why did you choose to create the specific interactive image you created, and in what ways does it represent you?
+    * For this task, you were required to include inputs and outpuits.  Respond to the question / prompts below about your inputs/outputs:
+       * Describe an example of at least one input in your program.
+       * Describe an example of at least one output in your program.
+    * For this task, you were required to use a group.  Respond to the questions / prompts below about your group:
+       * What is the name of your group?
+       * Describe what the elements in your group represent.
+       * Explain how you used your group to manage the complexity of your program.
+    * For this task, you were required to write a function.  Respond to the questions / prompts below about your function.
+       * What is the name of your function?
+       * In general, what did your function accomplish?
+       * Describe in detail how your accomplished what your function accomplished.  (i.e. name the specific code structures)
+       * Describe one parameter your function used.
+       * Describe how the argument passed to the parameter impacted which lines of code were executed and the result (*e.g. If ______ was passed to _____, lines ______ were executed.  This resulted in _____.  If ______ was passed to _____, lines ______ were executed.  This resulted in _____.*
     * In what ways did this project contribute to your overall learning experience as a Computer Science major at IEC? In other words, what specific skills did you learn? What challenges did you encounter? In what ways did you grow as a Computer Science major?
     * How did you iteratively develop your interactive image over time? In other words, What was your initial idea, and how did it change as you worked through this project? What challenges did you run into and how did you troubleshoot them? What feedback did you receive, and how did you use it to modify your work?  This is also a good opportunity to provide a **brief** narrative that walks through the version history of your work.
     * Looking back, what might you have done differently? In other words, what would you change about either your emoji itself or your process?
     * If you were to further develop this project, what would your next steps be? In other words, if given more time to work on this project, what would you do next? Is there something you do not yet know how to do, that you would like to learn in order to further develop this project?
+      
  
 ## Rubric
 
