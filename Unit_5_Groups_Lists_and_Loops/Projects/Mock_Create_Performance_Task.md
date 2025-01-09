@@ -25,7 +25,7 @@ Upload the following items to a new folder in your GitHub AP CSP Portfolio title
 
 ## Requirements:
 
-* Your interactive image must represent you.  It is up to you to determine how your program represents you.  Be Creative!
+* Your Create Performance Task must represent you.  It is up to you to determine how your program represents you.  Be Creative!
 
 * Your must include **all** of the following code structures:
     * Input (e.g. the user clicks the mouses, releases the mouse, or presses a key)
